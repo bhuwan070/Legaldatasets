@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1,
+    "question_en": "What is the punishment for theft under Nepal's Penal Code?",
+    "question_ne": "नेपालको दण्ड संहिता अनुसार चोरीको सजाय के हो?",
+    "answer_en": "The punishment for theft, as outlined in the Muluki Criminal (Code) Act, 2074, varies depending on the nature and value of the stolen property. It can range from imprisonment and fines to more severe penalties for aggravated theft. The specific provisions can be found in Chapter 13 of the Act, which details offenses related to theft and robbery.",
+    "answer_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४ अनुसार चोरीको सजाय, चोरी गरिएको सम्पत्तिको प्रकृति र मूल्य अनुसार फरक हुन्छ। यसमा कैद र जरिवानादेखि लिएर गम्भीर चोरीका लागि थप कठोर सजायसम्म हुन सक्छ। ऐनको अध्याय १३ मा चोरी र डकैती सम्बन्धी अपराधहरूको विस्तृत विवरण दिइएको छ, जहाँ विशिष्ट प्रावधानहरू पाउन सकिन्छ।",
+    "context_en": "Muluki Criminal (Code) Act, 2074, Chapter 13 (Offenses relating to theft and Robbery).",
+    "context_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४, अध्याय १३ (चोरी तथा डाँका सम्बन्धी कसूरहरू)।"
+  },
+  {
+    "id": 2,
+    "question_en": "Where can I find the legal provisions related to theft in Nepal?",
+    "question_ne": "नेपालमा चोरी सम्बन्धी कानूनी प्रावधानहरू कहाँ पाउन सकिन्छ?",
+    "answer_en": "The legal provisions related to theft in Nepal are primarily found in the Muluki Criminal (Code) Act, 2074. Specifically, Chapter 13 of this Act deals with offenses related to theft and robbery.",
+    "answer_ne": "नेपालमा चोरी सम्बन्धी कानूनी प्रावधानहरू मुख्यतया मुलुकी अपराध (संहिता) ऐन, २०७४ मा पाइन्छन्। विशेष गरी, यस ऐनको अध्याय १३ मा चोरी र डकैती सम्बन्धी अपराधहरूको विवरण दिइएको छ।",
+    "context_en": "Muluki Criminal (Code) Act, 2074, Chapter 13.",
+    "context_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४, अध्याय १३।"
+  },
+  {
+    "id": 3,
+    "question_en": "What does the Muluki Criminal (Code) Act, 2074 cover regarding theft?",
+    "question_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४ ले चोरीको सम्बन्धमा के समावेश गर्दछ?",
+    "answer_en": "The Muluki Criminal (Code) Act, 2074, specifically Chapter 13, covers various aspects of theft, including definitions, types of theft, and the corresponding punishments. It outlines the legal framework for addressing theft-related offenses in Nepal.",
+    "answer_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४, विशेष गरी अध्याय १३ ले चोरीको विभिन्न पक्षहरू, परिभाषा, चोरीका प्रकारहरू र सम्बन्धित सजायहरू समावेश गर्दछ। यसले नेपालमा चोरी सम्बन्धी अपराधहरूलाई सम्बोधन गर्न कानूनी संरचनाको रूपरेखा दिन्छ।",
+    "context_en": "Muluki Criminal (Code) Act, 2074, Chapter 13.",
+    "context_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४, अध्याय १३।"
+  },
+  {
+    "id": 4,
+    "question_en": "Are there different levels of punishment for theft in Nepal?",
+    "question_ne": "के नेपालमा चोरीको लागि फरक-फरक स्तरको सजाय छ?",
+    "answer_en": "Yes, there are different levels of punishment for theft in Nepal, depending on factors such as the value of the stolen goods, the circumstances of the theft, and whether the theft was aggravated. The Muluki Criminal (Code) Act, 2074, provides for varying penalties based on these factors.",
+    "answer_ne": "हो, नेपालमा चोरीको लागि फरक-फरक स्तरको सजाय छ, जस्तै चोरी गरिएको सामानको मूल्य, चोरीको परिस्थिति र चोरी बढाइएको थियो कि थिएन भन्ने जस्ता कारकहरूमा निर्भर गर्दछ। मुलुकी अपराध (संहिता) ऐन, २०७४ ले यी कारकहरूमा आधारित विभिन्न दण्डहरूको व्यवस्था गरेको छ।",
+    "context_en": "Muluki Criminal (Code) Act, 2074, Chapter 13.",
+    "context_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४, अध्याय १३।"
+  },
+  {
+    "id": 5,
+    "question_en": "Does the Nepali legal system differentiate between petty theft and grand theft?",
+    "question_ne": "के नेपाली कानूनी प्रणालीले सामान्य चोरी र ठूलो चोरी बीच फरक गर्दछ?",
+    "answer_en": "Yes, the Nepali legal system differentiates between levels of theft, effectively distinguishing between what could be considered petty theft and grand theft through varying degrees of punishment described within the Muluki Criminal (Code) Act 2074. The categorization and related punishment is based on the value of the stolen items, and circumstances surrounding the theft.",
+    "answer_ne": "हो, नेपाली कानूनी प्रणालीले चोरीको स्तरहरू बीच फरक गर्दछ, जसले मुलुकी अपराध (संहिता) ऐन २०७४ भित्र वर्णन गरिएको दण्डको विभिन्न डिग्रीहरू मार्फत सामान्य चोरी र ठूलो चोरी मानिने कुरालाई प्रभावकारी रूपमा छुट्याउँछ। वर्गीकरण र सम्बन्धित सजाय चोरी भएका वस्तुहरूको मूल्य र चोरी वरपरका परिस्थितिहरूमा आधारित छ।",
+    "context_en": "Muluki Criminal (Code) Act, 2074, Chapter 13.",
+    "context_ne": "मुलुकी अपराध (संहिता) ऐन, २०७४, अध्याय १३।"
+  },
+  {
+    "id": 6,
+    "question_en": "If someone attempts to rape me, what should I do according to the judicial practices ?",
+    "question_ne": "यदि कसैले मलाई बलात्कार गर्ने प्रयास गर्छ भने, कागजातमा प्रतिबिम्बित न्यायिक अभ्यास अनुसार मैले के गर्नुपर्छ?",
+    "answer_en": "Based on the judicial practices outlined in the 'District Court Decisions Collection, 2071', if someone attempts to rape you, it is crucial to immediately report the incident to the nearest police station. Additionally, seek medical attention for examination and documentation of any injuries. Preserve any evidence, and if possible, seek support from legal aid services or organizations that assist victims of sexual assault. Providing a detailed account of the incident to the authorities is essential for the legal process.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा उल्लिखित न्यायिक अभ्यासहरूमा आधारित भएर, यदि कसैले तपाईंलाई बलात्कार गर्ने प्रयास गर्छ भने, तुरुन्तै नजिकको प्रहरी चौकीमा घटनाको रिपोर्ट गर्नु महत्त्वपूर्ण छ। थप रूपमा, कुनै पनि चोटपटकको जाँच र दस्तावेजीकरणको लागि चिकित्सा ध्यान खोज्नुहोस्। कुनै पनि प्रमाणहरू सुरक्षित राख्नुहोस्, र यदि सम्भव भएमा, कानुनी सहायता सेवाहरू वा यौन दुर्व्यवहारका पीडितहरूलाई सहयोग गर्ने संस्थाहरूबाट समर्थन खोज्नुहोस्। अधिकारीहरूलाई घटनाको विस्तृत विवरण प्रदान गर्नु कानुनी प्रक्रियाको लागि आवश्यक छ।",
+    "context_en": "Referencing the 'District Court Decisions Collection, 2071' for judicial practices related to sexual assault cases.",
+    "context_ne": "यौन दुर्व्यवहार सम्बन्धी मुद्दाहरूका लागि न्यायिक अभ्यासहरूको लागि 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' लाई सन्दर्भ गर्दै।"
+  },
+  {
+    "id": 7,
+    "question_en": "What kind of evidence is important in a rape attempt case according to Nepali court practices?",
+    "question_ne": "नेपाली अदालतको अभ्यास अनुसार बलात्कार प्रयासको मुद्दामा कस्तो प्रमाण महत्त्वपूर्ण हुन्छ?",
+    "answer_en": "According to Nepali court practices, as can be inferred from the judicial documents, crucial evidence in a rape attempt case includes: medical examination reports detailing any physical injuries, witness testimonies, any form of communication (text messages, emails) that may indicate the perpetrator's intentions, and any physical evidence collected from the scene. Prompt reporting to authorities and preservation of evidence are also vital.",
+    "answer_ne": "नेपाली अदालतको अभ्यास अनुसार, न्यायिक कागजातहरूबाट अनुमान गर्न सकिन्छ, बलात्कार प्रयासको मुद्दामा महत्त्वपूर्ण प्रमाणहरूमा: कुनै पनि शारीरिक चोटहरूको विवरण दिने चिकित्सा परीक्षण रिपोर्टहरू, साक्षी गवाहीहरू, कुनै पनि प्रकारको सञ्चार (पाठ सन्देशहरू, इमेलहरू) जसले अपराधीको मनसायलाई संकेत गर्न सक्छ, र घटनास्थलबाट संकलित कुनै पनि भौतिक प्रमाणहरू समावेश हुन्छन्। अधिकारीहरूलाई तुरुन्त रिपोर्टिङ र प्रमाणको संरक्षण पनि महत्त्वपूर्ण छ।",
+    "context_en": "Analysis of judicial practices in 'District Court Decisions Collection, 2071' regarding evidence in sexual assault cases.",
+    "context_ne": "यौन दुर्व्यवहारका मुद्दाहरूमा प्रमाण सम्बन्धी 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' मा न्यायिक अभ्यासहरूको विश्लेषण।"
+  },
+  {
+    "id": 8,
+    "question_en": "Does the Nepali judicial system provide any support for victims of rape attempts?",
+    "question_ne": "के नेपाली न्यायिक प्रणालीले बलात्कार प्रयासका पीडितहरूलाई कुनै सहयोग प्रदान गर्दछ?",
+    "answer_en": "While the provided document primarily focuses on court decisions, it is understood that the Nepali judicial system, through various legal provisions and support services, aims to provide support for victims of rape attempts. This includes legal aid, counseling, and medical assistance. Victims are encouraged to seek help from relevant authorities and organizations that specialize in victim support.",
+    "answer_ne": "प्रदान गरिएको कागजात मुख्य रूपमा अदालतको निर्णयहरूमा केन्द्रित भए पनि, यो बुझिन्छ कि नेपाली न्यायिक प्रणालीले विभिन्न कानूनी प्रावधानहरू र समर्थन सेवाहरू मार्फत बलात्कार प्रयासका पीडितहरूलाई सहयोग प्रदान गर्ने लक्ष्य राख्दछ। यसमा कानुनी सहायता, परामर्श र चिकित्सा सहायता समावेश छ। पीडितहरूलाई सान्दर्भिक अधिकारीहरू र पीडित समर्थनमा विशेषज्ञता हासिल गर्ने संस्थाहरूबाट मद्दत लिन प्रोत्साहित गरिन्छ।",
+    "context_en": "General understanding of Nepali legal and support systems for victims of sexual assault.",
+    "context_ne": "यौन दुर्व्यवहारका पीडितहरूका लागि नेपाली कानूनी र समर्थन प्रणालीहरूको सामान्य समझ।"
+  },
+  {
+    "id": 9,
+    "question_en": "In a hypothetical theft case where the stolen goods are of low value, what legal procedures and potential punishments are indicated by the 'District Court Decisions Collection, 2071'?",
+    "question_ne": "एउटा काल्पनिक चोरीको मुद्दामा जहाँ चोरी गरिएको सामानको मूल्य कम छ, 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' ले कस्तो कानूनी प्रक्रिया र सम्भावित सजायहरू संकेत गर्दछ?",
+    "answer_en": "Based on the document, even for low-value theft, reporting to the police is necessary. The document highlights the importance of evidence, so even in petty theft, documenting the stolen items and any witnesses is crucial. Punishments would likely be less severe than grand theft, possibly involving fines or short-term imprisonment, depending on the specifics and prior offenses. The case would be handled by the district court, following legal procedures for evidence presentation and defense.",
+    "answer_ne": "कागजातमा आधारित भएर, कम मूल्यको चोरीको लागि पनि प्रहरीमा रिपोर्ट गर्नु आवश्यक छ। कागजातले प्रमाणको महत्त्वलाई जोड दिन्छ, त्यसैले सामान्य चोरीमा पनि, चोरी भएका वस्तुहरू र कुनै पनि साक्षीहरूलाई दस्तावेजीकरण गर्नु महत्त्वपूर्ण छ। ठूलो चोरीको तुलनामा सजायहरू कम कठोर हुने सम्भावना छ, सम्भवतः जरिवाना वा छोटो अवधिको कैद समावेश हुन सक्छ, विशेष विवरण र पहिलेका अपराधहरूमा निर्भर गर्दछ। मुद्दा जिल्ला अदालतद्वारा हेरिनेछ, प्रमाण प्रस्तुतीकरण र प्रतिरक्षाको लागि कानूनी प्रक्रियाहरू पछ्याउँदै।",
+    "context_en": "Interpretation of 'District Court Decisions Collection, 2071' regarding theft cases and legal procedures.",
+    "context_ne": "चोरीका मुद्दाहरू र कानूनी प्रक्रियाहरूको सम्बन्धमा 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' को व्याख्या।"
+  },
+  {
+    "id": 10,
+    "question_en": "What legal steps should be taken if someone witnesses a murder according to Nepali judicial practices?",
+    "question_ne": "नेपाली न्यायिक अभ्यास अनुसार यदि कसैले हत्या देखेमा कस्ता कानुनी कदम चाल्नुपर्छ?",
+    "answer_en": "If someone witnesses a murder, they should immediately report it to the nearest police station. Providing detailed witness statements and any available evidence is crucial. The witness may be required to testify in court. It is also important to seek protection if the witness feels threatened. The document emphasizes the importance of witness testimonies in criminal cases.",
+    "answer_ne": "यदि कसैले हत्या देख्यो भने, उनीहरूले तुरुन्तै नजिकको प्रहरी चौकीमा रिपोर्ट गर्नुपर्छ। विस्तृत साक्षी बयान र उपलब्ध कुनै पनि प्रमाणहरू प्रदान गर्नु महत्त्वपूर्ण छ। साक्षीलाई अदालतमा गवाही दिन आवश्यक हुन सक्छ। यदि साक्षीले धम्की महसुस गरेमा सुरक्षा खोज्नु पनि महत्त्वपूर्ण छ। कागजातले आपराधिक मुद्दाहरूमा साक्षी गवाहीको महत्त्वलाई जोड दिन्छ।",
+    "context_en": "Analysis of judicial practices in 'District Court Decisions Collection, 2071' regarding witness responsibilities in murder cases.",
+    "context_ne": "हत्याका मुद्दाहरूमा साक्षी जिम्मेवारीहरूको सम्बन्धमा 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' मा न्यायिक अभ्यासहरूको विश्लेषण।"
+  },
+  {
+    "id": 11,
+    "question_en": "How does the Nepali legal system address 'Angsa' (property division) disputes based on insights from the document?",
+    "question_ne": "कागजातबाट प्राप्त जानकारीको आधारमा नेपाली कानूनी प्रणालीले 'अंश' (सम्पत्ति विभाजन) विवादहरूलाई कसरी सम्बोधन गर्दछ?",
+    "answer_en": "The 'District Court Decisions Collection, 2071' indicates that 'Angsa' disputes are handled through civil court proceedings. Relevant documents, such as property ownership records and family lineage details, are crucial. Courts aim to ensure equitable distribution of property according to legal provisions. Mediation or negotiation may be encouraged before or during court proceedings. Detailed documentation and legal representation are essential for resolving such disputes.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ ले 'अंश' विवादहरूलाई देवानी अदालतको कार्यवाहीमार्फत सम्बोधन गरिन्छ भनेर संकेत गर्दछ। सम्पत्ति स्वामित्व अभिलेख र पारिवारिक वंश विवरण जस्ता सान्दर्भिक कागजातहरू महत्त्वपूर्ण छन्। अदालतहरूले कानूनी प्रावधान अनुसार सम्पत्तिको न्यायोचित वितरण सुनिश्चित गर्ने लक्ष्य राख्छन्। मध्यस्थता वा वार्तालापलाई अदालतको कार्यवाही अघि वा समयमा प्रोत्साहित गर्न सकिन्छ। यस्ता विवादहरू समाधान गर्न विस्तृत कागजात र कानूनी प्रतिनिधित्व आवश्यक छ।",
+    "context_en": "Interpretation of 'District Court Decisions Collection, 2071' regarding civil disputes related to property division.",
+    "context_ne": "सम्पत्ति विभाजनसँग सम्बन्धित देवानी विवादहरूको सम्बन्धमा 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' को व्याख्या।"
+  },
+  {
+    "id": 12,
+    "question_en": "What type of evidence is important in murder case according to Nepali court practices?",
+    "question_ne": "नेपाली अदालतको अभ्यास अनुसार हत्याको मुद्दामा कस्तो प्रमाण महत्त्वपूर्ण हुन्छ?",
+    "answer_en": "According to Nepali court practices, crucial evidence in a murder case includes: forensic reports (autopsy, DNA, ballistics), witness testimonies, circumstantial evidence (motive, opportunity), and any physical evidence collected from the scene (weapons, fingerprints). Prompt reporting to authorities and preservation of evidence are vital. The document highlights the importance of thorough investigation and evidence presentation in murder cases.",
+    "answer_ne": "नेपाली अदालतको अभ्यास अनुसार, हत्याको मुद्दामा महत्त्वपूर्ण प्रमाणहरूमा: फोरेन्सिक रिपोर्टहरू (अटोप्सी, डीएनए, ब्यालिस्टिक्स), साक्षी गवाहीहरू, परिस्थितिजन्य प्रमाणहरू (मनसाय, अवसर), र घटनास्थलबाट संकलित कुनै पनि भौतिक प्रमाणहरू (हतियार, औंलाछाप) समावेश हुन्छन्। अधिकारीहरूलाई तुरुन्त रिपोर्टिङ र प्रमाणको संरक्षण महत्त्वपूर्ण छ। कागजातले हत्याका मुद्दाहरूमा गहन अनुसन्धान र प्रमाण प्रस्तुतीकरणको महत्त्वलाई जोड दिन्छ।",
+    "context_en": "Analysis of judicial practices in 'District Court Decisions Collection, 2071' regarding evidence in murder cases.",
+    "context_ne": "हत्याका मुद्दाहरूमा प्रमाण सम्बन्धी 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' मा न्यायिक अभ्यासहरूको विश्लेषण।"
+  },
+  {
+    "id": 13,
+    "question_en": "If someone is convicted of homicide, what potential imprisonment period could they face according to the 'District Court Decisions Collection, 2071'?",
+    "question_ne": "यदि कसैलाई हत्याको अभियोगमा दोषी ठहर गरियो भने, 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' अनुसार उनीहरूले कति वर्षको कैद सजाय भोग्न सक्छन्?",
+    "answer_en": "Based on the cases presented in the 'District Court Decisions Collection, 2071', the imprisonment period for homicide varies significantly. It can range from 10 years to life imprisonment, depending on the severity and circumstances of the crime.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा प्रस्तुत गरिएका मुद्दाहरूका आधारमा, हत्याको कैद अवधि उल्लेखनीय रूपमा भिन्न हुन्छ। अपराधको गम्भीरता र परिस्थितिको आधारमा यो १० वर्षदेखि जन्मकैदसम्म हुन सक्छ।",
+    "context_en": "Analysis of homicide cases and sentences in 'District Court Decisions Collection, 2071'.",
+    "context_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा हत्याका मुद्दाहरू र सजायहरूको विश्लेषण।"
+  },
+  {
+    "id": 14,
+    "question_en": "In a rape case judgment from the 'District Court Decisions Collection, 2071', what is the typical range of imprisonment?",
+    "question_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ बाट बलात्कार मुद्दाको फैसलामा, कैदको सामान्य दायरा कति छ?",
+    "answer_en": "According to the 'District Court Decisions Collection, 2071', the typical range of imprisonment for rape cases is around 10 to 12 years. However, the specific sentence can vary based on the details of the case.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ अनुसार, बलात्कार मुद्दाहरूको लागि कैदको सामान्य दायरा लगभग १० देखि १२ वर्षसम्म छ। यद्यपि, विशिष्ट सजाय मुद्दाको विवरणमा आधारित हुन सक्छ।",
+    "context_en": "Review of rape case judgments and sentences in 'District Court Decisions Collection, 2071'.",
+    "context_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा बलात्कार मुद्दाको फैसला र सजायको समीक्षा।"
+  },
+  {
+    "id": 15,
+    "question_en": "If someone is convicted of manslaughter, what is the potential imprisonment period as indicated in the 'District Court Decisions Collection, 2071'?",
+    "question_ne": "यदि कसैलाई मानव हत्याको अभियोगमा दोषी ठहर गरियो भने, 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' मा संकेत गरिए अनुसार सम्भावित कैद अवधि कति छ?",
+    "answer_en": "The 'District Court Decisions Collection, 2071' shows that the imprisonment period for manslaughter can be around 2 years, but this can vary depending on the circumstances of the case.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ ले देखाउँछ कि मानव हत्याको कैद अवधि लगभग २ वर्ष हुन सक्छ, तर यो मुद्दाको परिस्थिति अनुसार फरक हुन सक्छ।",
+    "context_en": "Examination of manslaughter case sentences in 'District Court Decisions Collection, 2071'.",
+    "context_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा मानव हत्या मुद्दाको सजायको जाँच।"
+  },
+  {
+    "id": 16,
+    "question_en": "For document fraud cases, what is the typical imprisonment period mentioned in the 'District Court Decisions Collection, 2071'?",
+    "question_ne": "कागजात जालसाजी मुद्दाहरूको लागि, 'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' मा उल्लेख गरिएको सामान्य कैद अवधि कति छ?",
+    "answer_en": "According to the 'District Court Decisions Collection, 2071', the typical imprisonment period for document fraud cases is around 1 year.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ अनुसार, कागजात जालसाजी मुद्दाहरूको लागि सामान्य कैद अवधि लगभग १ वर्ष छ।",
+    "context_en": "Analysis of document fraud case sentences in 'District Court Decisions Collection, 2071'.",
+    "context_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा कागजात जालसाजी मुद्दाको सजायको विश्लेषण।"
+  },
+  {
+    "id": 17,
+    "question_en": "What is the potential imprisonment period for someone convicted of multiple marriages, as indicated by the 'District Court Decisions Collection, 2071'?",
+    "question_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ द्वारा संकेत गरिए अनुसार बहुविवाहको अभियोगमा दोषी ठहर भएका व्यक्तिको लागि सम्भावित कैद अवधि कति छ?",
+    "answer_en": "The 'District Court Decisions Collection, 2071' indicates that the imprisonment period for multiple marriages can be around 1 year.",
+    "answer_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ ले बहुविवाहको कैद अवधि लगभग १ वर्ष हुन सक्छ भनेर संकेत गर्दछ।",
+    "context_en": "Review of multiple marriage case sentences in 'District Court Decisions Collection, 2071'.",
+    "context_ne": "‘जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१’ मा बहुविवाह मुद्दाको सजायको समीक्षा।"
+  },
+  {
+    "id": 18,
+    "question_en": " what is the process for requesting a copy of a court decision?",
+    "question_ne": "अदालतको निर्णयको प्रतिलिपि अनुरोध गर्ने प्रक्रिया के हो?",
+    "answer_en": "As outlined in the document, District Court Decisions Collection, 2071, if a stakeholder requests a copy of the decision, the office should take the required fee and provide the copy.",
+    "answer_ne": "कागजातमा उल्लिखित रूपमा, यदि सरोकारवालाले निर्णयको प्रतिलिपि अनुरोध गरेमा, कार्यालयले आवश्यक शुल्क लिई प्रतिलिपि उपलब्ध गराउनुपर्छ।",
+    "context_en": "Procedure for obtaining court decision copies from 'District Court Decisions Collection, 2071'.",
+    "context_ne": "'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' बाट अदालतको निर्णय प्रतिलिपिहरू प्राप्त गर्ने प्रक्रिया।"
+  },
+  {
+    "id": 19,
+    "question_en": "What is the procedure for filing an appeal if dissatisfied with a court decision?",
+    "question_ne": "अदालतको निर्णयबाट असन्तुष्ट भएमा पुनरावेदन दर्ता गर्ने प्रक्रिया के उल्लेख गरिएको छ?",
+    "answer_en": "If dissatisfied with a decision, the party can file an appeal at the Patan High Court, Lalitpur, within 35 days of the decision date.",
+    "answer_ne": "यदि निर्णयबाट असन्तुष्ट भएमा, पक्षले निर्णय भएको मितिको ३५ दिनभित्र पाटन उच्च अदालत, ललितपुरमा पुनरावेदन दर्ता गर्न सक्छ।",
+    "context_en": "Appeal process details from 'District Court Decisions Collection, 2071'.",
+    "context_ne": "'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' बाट पुनरावेदन प्रक्रिया विवरणहरू।"
+  },
+  {
+    "id": 20,
+    "question_en": "What does the court indicate regarding the custody of a minor child?",
+    "question_ne": "अदालतले नाबालक बच्चाको हिरासतको सम्बन्धमा के सङ्केत गर्छ?",
+    "answer_en": "The document, 'District Court Decisions Collection, 2071'. suggests that custody of a minor child is typically given to the mother if it is in the best interest of the child. The father's request for custody may be denied if deemed unnecessary.",
+    "answer_ne": "कागजातले सुझाव दिन्छ कि यदि बच्चाको हितमा छ भने नाबालक बच्चाको हिरासत सामान्यतया आमालाई दिइन्छ। यदि अनावश्यक मानिएमा बुबाको हिरासतको अनुरोध अस्वीकार गर्न सकिन्छ।",
+    "context_en": "Child custody indications from 'District Court Decisions Collection, 2071'.",
+    "context_ne": "'जिल्ला अदालतका फैसलाहरूको सङ्ग्रह, २०७१' बाट बाल हिरासत सङ्केतहरू।"
+  },
+  {
+    "id": 21,
+    "question_en": "What legal action can be taken if a party believes a property division agreement was unfair, according to district court practices?",
+    "question_ne": "जिल्ला अदालतको अभ्यास अनुसार, यदि कुनै पक्षले सम्पत्ति विभाजन सम्झौता अनुचित थियो भन्ने विश्वास गरेमा के कानूनी कारबाही गर्न सकिन्छ?",
+    "answer_en": "According to district court practices, as evidenced in a Kathmandu District Court case decided on 2079/11/18, if a party believes a property division agreement was unfair, they can file a case to annul the agreement. However, the court will examine if the agreement was made with fair consent and according to legal procedures. If so, the agreement will likely remain valid. In this specific case, the court determined that since the agreement involved taking property in lieu of a share and was done with consent, it would not be annulled.",
+    "answer_ne": "जिल्ला अदालतको अभ्यास अनुसार, २०७९/११/१८ मा फैसला भएको काठमाडौं जिल्ला अदालतको मुद्दामा प्रमाणित भए अनुसार, यदि कुनै पक्षले सम्पत्ति विभाजन सम्झौता अनुचित थियो भन्ने विश्वास गरेमा, उनीहरूले सम्झौता रद्द गर्न मुद्दा दर्ता गर्न सक्छन्। यद्यपि, अदालतले सम्झौता निष्पक्ष सहमति र कानूनी प्रक्रिया अनुसार गरिएको थियो कि थिएन भनेर जाँच गर्नेछ। यदि हो भने, सम्झौता मान्य रहने सम्भावना छ। यस विशेष मुद्दामा, अदालतले निर्धारण गर्यो कि सम्झौतामा अंशको सट्टा सम्पत्ति लिने र सहमतिमा गरिएको हुनाले, यो रद्द गरिने छैन।",
+    "context_en": "Kathmandu District Court procedures regarding property division agreements, case decided on 2079/11/18.",
+    "context_ne": "सम्पत्ति विभाजन सम्झौता सम्बन्धी काठमाडौं जिल्ला अदालत प्रक्रियाहरू, २०७९/११/१८ मा फैसला भएको मुद्दा।"
+  },
+  {
+    "id": 22,
+    "question_en": "What is the timeframe for filing an appeal against a district court's decision?",
+    "question_ne": "जिल्ला अदालतको निर्णय विरुद्ध पुनरावेदन दर्ता गर्ने समयसीमा कति हो?",
+    "answer_en": "The timeframe for filing an appeal against a district court's decision, as indicated in a case decided on 2079/09/12, is 30 days from the decision date. Appeals should be filed at the Patan High Court, Hetauda.",
+    "answer_ne": "२०७९/०९/१२ मा फैसला भएको मुद्दामा उल्लेख भए अनुसार, जिल्ला अदालतको निर्णय विरुद्ध पुनरावेदन दर्ता गर्ने समयसीमा निर्णय भएको मितिबाट ३० दिन हो। पुनरावेदन पाटन उच्च अदालत, हेटौंडामा दर्ता गर्नुपर्छ।",
+    "context_en": "District court appeal filing deadlines, case decided on 2079/09/12.",
+    "context_ne": "जिल्ला अदालत पुनरावेदन दर्ता गर्ने समयसीमा, २०७९/०९/१२ मा फैसला भएको मुद्दा।"
+  },
+  {
+    "id": 23,
+    "question_en": "How does the district court handle requests for copies of court decisions?",
+    "question_ne": "जिल्ला अदालतले अदालतको निर्णयहरूको प्रतिलिपिहरूको अनुरोधहरू कसरी ह्यान्डल गर्छ?",
+    "answer_en": "The district court handles requests for copies of court decisions by collecting the required fee and providing the copy to the stakeholder. This procedure is mentioned in the general instructions following the court's decision.",
+    "answer_ne": "जिल्ला अदालतले आवश्यक शुल्क सङ्कलन गरी सरोकारवालालाई प्रतिलिपि उपलब्ध गराएर अदालतको निर्णयको प्रतिलिपिहरूको अनुरोधहरू ह्यान्डल गर्छ। अदालतको निर्णय पछिको सामान्य निर्देशनहरूमा यो प्रक्रिया उल्लेख गरिएको छ।",
+    "context_en": "District court procedures for providing court decision copies, general instructions.",
+    "context_ne": "अदालतको निर्णय प्रतिलिपिहरू उपलब्ध गराउनको लागि जिल्ला अदालत प्रक्रियाहरू, सामान्य निर्देशनहरू।"
+  },
+  {
+    "id": 24,
+    "question_en": "What factors does the district court consider when determining the validity of a compromise agreement in property disputes?",
+    "question_ne": "सम्पत्ति विवादहरूमा सम्झौता सम्झौताको वैधता निर्धारण गर्दा जिल्ला अदालतले कुन कारकहरूलाई विचार गर्छ?",
+    "answer_en": "The Kathmandu District Court, in a case decided on 2079/11/18, considered whether the compromise agreement was made with fair consent and according to legal procedures. Specifically, the court looked at whether the agreement involved taking property in lieu of a share and if it was done with the consent of all parties involved. If these conditions are met, the agreement is generally considered valid.",
+    "answer_ne": "काठमाडौं जिल्ला अदालतले २०७९/११/१८ मा फैसला भएको मुद्दामा सम्झौता सम्झौता निष्पक्ष सहमति र कानूनी प्रक्रिया अनुसार गरिएको थियो कि थिएन भनेर विचार गर्यो। विशेष गरी, अदालतले सम्झौतामा अंशको सट्टा सम्पत्ति लिने र यसमा संलग्न सबै पक्षहरूको सहमतिमा गरिएको थियो कि थिएन भनेर हेर्यो। यदि यी सर्तहरू पूरा भएमा, सम्झौता सामान्यतया मान्य मानिन्छ।",
+    "context_en": "Kathmandu District Court's assessment of compromise agreements in property disputes, case decided on 2079/11/18.",
+    "context_ne": "सम्पत्ति विवादहरूमा सम्झौता सम्झौताहरूको काठमाडौं जिल्ला अदालतको मूल्याङ्कन, २०७९/११/१८ मा फैसला भएको मुद्दा।"
+  },
+  {
+    "id": 25,
+    "question_en": "What is the general procedure for reviewing a district court decision at a higher court?",
+    "question_ne": "उच्च अदालतमा जिल्ला अदालतको निर्णय समीक्षा गर्ने सामान्य प्रक्रिया के हो?",
+    "answer_en": "The general procedure, as applied in cases where appeals are allowed, involves filing an appeal at the Patan High Court, Hetauda, within 30 days of the district court's decision date. The high court will then review the district court's decision based on the presented evidence and legal arguments.",
+    "answer_ne": "पुनरावेदन अनुमति दिइएका मुद्दाहरूमा लागू भए अनुसार, सामान्य प्रक्रियामा जिल्ला अदालतको निर्णय भएको मितिको ३० दिनभित्र पाटन उच्च अदालत, हेटौंडामा पुनरावेदन दर्ता गर्नु समावेश छ। उच्च अदालतले प्रस्तुत प्रमाण र कानूनी तर्कहरूको आधारमा जिल्ला अदालतको निर्णयको समीक्षा गर्नेछ।",
+    "context_en": "General appeal process for district court decisions, as applied in cases decided in 2079.",
+    "context_ne": "२०७९ मा फैसला भएका मुद्दाहरूमा लागू भए अनुसार, जिल्ला अदालतको निर्णयहरूको लागि सामान्य पुनरावेदन प्रक्रिया।"
+  },
+
+  {
+    "id": 26,
+    "question_en": "If someone is convicted of rape and the legal provisions discriminate based on the victim's profession, what legal outcome can be expected based on Supreme Court judgments?",
+    "question_ne": "यदि कसैलाई बलात्कारको अभियोगमा दोषी ठहर गरिन्छ र कानूनी प्रावधानहरूले पीडितको पेशाको आधारमा भेदभाव गर्छ भने, सर्वोच्च अदालतको फैसलाको आधारमा कस्तो कानूनी परिणामको अपेक्षा गर्न सकिन्छ?",
+    "answer_en": "Based on a Supreme Court judgment, specifically in a case similar to 'Advocate Sapana Pradhan Malla v. His Majesty's Government' (2058 B.S.), any legal provision that discriminates among rape victims based on their profession is unconstitutional. Therefore, the discriminatory provision would be eliminated to ensure equal treatment under the law. This case primarily focused on the constitutionality of legal provisions, not specific prison sentences.",
+    "answer_ne": "सर्वोच्च अदालतको फैसलाको आधारमा, विशेष गरी 'अधिवक्ता सपना प्रधान मल्ल विरुद्ध हिज मेजेस्टीज सरकार' (२०५८ बि.सं.) जस्तै मुद्दामा, पीडितको पेशाको आधारमा बलात्कार पीडितहरू बीच भेदभाव गर्ने कुनै पनि कानूनी प्रावधान असंवैधानिक छ। त्यसकारण, कानून अन्तर्गत समान व्यवहार सुनिश्चित गर्न भेदभावपूर्ण प्रावधान हटाइनेछ। यो मुद्दा मुख्यतया कानूनी प्रावधानहरूको संवैधानिकतामा केन्द्रित थियो, विशिष्ट जेल सजायमा होइन।",
+    "context_en": "Supreme Court judgment regarding discriminatory rape laws based on victim's profession, leading to the elimination of such provisions, as exemplified by cases similar to 'Advocate Sapana Pradhan Malla v. His Majesty's Government' (2058 B.S.).",
+    "context_ne": "पीडितको पेशाको आधारमा भेदभावपूर्ण बलात्कार कानून सम्बन्धी सर्वोच्च अदालतको फैसला, जसले त्यस्ता प्रावधानहरू हटाउन नेतृत्व गर्दछ, 'अधिवक्ता सपना प्रधान मल्ल विरुद्ध हिज मेजेस्टीज सरकार' (२०५८ बि.सं.) जस्तै मुद्दाहरूद्वारा उदाहरण दिइएको छ।"
+  },
+  {
+    "id": 27,
+    "question_en": "If a woman is accused of raping another woman, or if someone uses artificial objects in a rape, how does the Supreme Court define rape based on past judgments?",
+    "question_ne": "यदि कुनै महिलाले अर्को महिलालाई बलात्कार गरेको आरोप छ, वा यदि कसैले बलात्कारमा कृत्रिम वस्तुहरू प्रयोग गर्छ भने, विगतका फैसलाहरूको आधारमा सर्वोच्च अदालतले बलात्कारलाई कसरी परिभाषित गर्छ?",
+    "answer_en": "Based on the Supreme Court's decision in a case similar to 'Lakpa Sherpa v. Government of Nepal' (NLR 2073), the definition of rape includes cases where a woman can rape another woman. It also includes rape using artificial objects. This significantly broadens the legal understanding of rape under the Muluki Criminal Code. This case focused on the definition of rape, not specific prison sentences.",
+    "answer_ne": "'लाक्पा शेर्पा विरुद्ध नेपाल सरकार' (एनएलआर २०७३) जस्तै मुद्दामा सर्वोच्च अदालतको निर्णयको आधारमा, बलात्कारको परिभाषामा महिलाले अर्को महिलालाई बलात्कार गर्न सक्ने मुद्दाहरू समावेश हुन्छन्। यसले कृत्रिम वस्तुहरूको प्रयोग गरेर बलात्कारलाई पनि समावेश गर्दछ। यसले मुलुकी अपराध संहिता अन्तर्गत बलात्कारको कानूनी समझदारीलाई महत्त्वपूर्ण रूपमा फराकिलो बनाउँछ। यो मुद्दा विशिष्ट जेल सजायको सट्टा बलात्कारको परिभाषामा केन्द्रित थियो।",
+    "context_en": "Supreme Court decision expanding the legal definition of rape to include women perpetrators and artificial objects, as seen in cases similar to 'Lakpa Sherpa v. Government of Nepal' (NLR 2073), under the Muluki Criminal Code.",
+    "context_ne": "मुलुकी अपराध संहिता अन्तर्गत महिला अपराधीहरू र कृत्रिम वस्तुहरू समावेश गर्न बलात्कारको कानूनी परिभाषा विस्तार गर्ने सर्वोच्च अदालतको निर्णय, 'लाक्पा शेर्पा विरुद्ध नेपाल सरकार' (एनएलआर २०७३) जस्तै मुद्दाहरूमा देखिए जस्तै।"
+  },
+  {
+    "id": 28,
+    "question_en": "In a rape case where the traditional crime scene is unclear, how does the Supreme Court determine where the crime occurred, according to past judgments?",
+    "question_ne": "बलात्कार मुद्दामा जहाँ परम्परागत अपराध स्थल अस्पष्ट छ, विगतका फैसलाहरू अनुसार सर्वोच्च अदालतले अपराध कहाँ भएको मान्छ?",
+    "answer_en": "Based on a Supreme Court judgment similar to 'Government of Nepal v. Sagar Bhatta' (071-CR-0659, Judgment Date 2076/8/2), in rape cases, the victim's body itself is considered the primary crime scene, even if the traditional crime scene cannot be ascertained. This ensures that offenders are not immune from prosecution. The judgment focused on the concept of the crime scene, not specific prison sentences.",
+    "answer_ne": "'नेपाल सरकार विरुद्ध सागर भट्ट' (०७१-सीआर-०६५९, फैसला मिति २०७६/८/२) जस्तै सर्वोच्च अदालतको फैसलाको आधारमा, बलात्कार मुद्दाहरूमा, परम्परागत अपराध स्थल पत्ता लगाउन नसकिए पनि पीडितको शरीरलाई प्राथमिक अपराध स्थल मानिन्छ। यसले अपराधीहरूलाई अभियोजनबाट प्रतिरक्षा नगर्ने सुनिश्चित गर्दछ। फैसला विशिष्ट जेल सजायको सट्टा अपराध स्थलको अवधारणामा केन्द्रित थियो।",
+    "context_en": "Supreme Court principle regarding the victim's body as the primary crime scene in rape cases, ensuring prosecution under the Muluki Criminal Code, as established in cases similar to 'Government of Nepal v. Sagar Bhatta' (071-CR-0659).",
+    "context_ne": "'नेपाल सरकार विरुद्ध सागर भट्ट' (०७१-सीआर-०६५९) जस्तै मुद्दाहरूमा स्थापित भए अनुसार, मुलुकी अपराध संहिता अन्तर्गत अभियोजन सुनिश्चित गर्दै बलात्कार मुद्दाहरूमा पीडितको शरीरलाई प्राथमिक अपराध स्थल मान्ने सम्बन्धमा सर्वोच्च अदालतको सिद्धान्त।"
+  },
+  {
+    "id": 29,
+    "question_en": "If a superior officer in the military engages in a sexual relationship with a subordinate officer, how does the Supreme Court view the concept of consent, based on past judgments?",
+    "question_ne": "यदि सेनामा एक उच्च पदस्थ अधिकारीले तल्लो तहका अधिकारीसँग यौन सम्बन्ध राख्छ भने, विगतका फैसलाहरूको आधारमा सर्वोच्च अदालतले सहमतिको अवधारणालाई कसरी हेर्छ?",
+    "answer_en": "Based on a Supreme Court judgment similar to 'Bhupendra Khadka v. Nepal Army' (NLR 2076), consent obtained by a superior officer using their position of influence over a subordinate officer is considered consent obtained through undue influence, and thus not valid. This principle applies to sexual relationships within the military. This case focused on the validity of consent, not specific prison terms.",
+    "answer_ne": "'भूपेन्द्र खड्का विरुद्ध नेपाली सेना' (एनएलआर २०७६) जस्तै सर्वोच्च अदालतको फैसलाको आधारमा, एक उच्च पदस्थ अधिकारीले आफ्नो प्रभावको स्थिति प्रयोग गरी तल्लो तहका अधिकारीबाट प्राप्त गरेको सहमतिलाई अनुचित प्रभावबाट प्राप्त भएको सहमति मानिन्छ, र यसरी मान्य हुँदैन। यो सिद्धान्त सेनाभित्रको यौन सम्बन्धमा लागू हुन्छ। यो मुद्दा विशिष्ट जेल सजायको सट्टा सहमतिको वैधतामा केन्द्रित थियो।",
+    "context_en": "Supreme Court's view on consent and undue influence in military sexual relationships, as established in cases similar to 'Bhupendra Khadka v. Nepal Army' (NLR 2076), emphasizing genuine consent under the Muluki Criminal Code.",
+    "context_ne": "'भूपेन्द्र खड्का विरुद्ध नेपाली सेना' (एनएलआर २०७६) जस्तै मुद्दाहरूमा स्थापित भए अनुसार, मुलुकी अपराध संहिता अन्तर्गत वास्तविक सहमतिलाई जोड दिँदै सैनिक यौन सम्बन्धमा सहमति र अनुचित प्रभाव सम्बन्धी सर्वोच्च अदालतको दृष्टिकोण।"
+  },
+  {
+    "id": 30,
+    "question_en": "In cases where a rape victim suffers from Battered Women Syndrome (BWS) and commits a crime, how does the Supreme Court consider this in judgments?",
+    "question_ne": "बलात्कार पीडितहरू ब्याटर्ड वुमन सिन्ड्रोम (बीडब्ल्यूएस) बाट पीडित भएमा र अपराध गरेमा सर्वोच्च अदालतले यसलाई फैसलामा कसरी विचार गर्छ?",
+    "answer_en": "The Supreme Court recognizes Battered Women Syndrome (BWS) as a relevant factor in cases where a victim commits a crime. Judgments consider the psychological impact of BWS, potentially influencing the assessment of culpability and sentencing. The court aims to understand the victim's state of mind and the circumstances that led to their actions.",
+    "answer_ne": "सर्वोच्च अदालतले ब्याटर्ड वुमन सिन्ड्रोम (बीडब्ल्यूएस) लाई पीडितले अपराध गरेको मुद्दाहरूमा सान्दर्भिक कारकको रूपमा मान्यता दिन्छ। फैसलाहरूले बीडब्ल्यूएसको मनोवैज्ञानिक प्रभावलाई विचार गर्दछ, जसले दोषीता र सजायको मूल्याङ्कनलाई सम्भावित रूपमा प्रभाव पार्छ। अदालतले पीडितको मानसिकता र उनीहरूको कार्यहरू निम्त्याउने परिस्थितिहरू बुझ्ने लक्ष्य राख्दछ।",
+    "context_en": "Supreme Court's consideration of Battered Women Syndrome (BWS) in criminal cases involving victims.",
+    "context_ne": "पीडितहरू संलग्न आपराधिक मुद्दाहरूमा ब्याटर्ड वुमन सिन्ड्रोम (बीडब्ल्यूएस) को सर्वोच्च अदालतको विचार।"
+  },
+  {
+    "id": 31,
+    "question_en": "If someone is convicted of throwing acid on another person, what legal action and punishment can be expected, based on Supreme Court directives?",
+    "question_ne": "यदि कसैलाई अर्को व्यक्तिमाथि एसिड फालेको अभियोगमा दोषी ठहर गरिन्छ भने, सर्वोच्च अदालतको निर्देशनको आधारमा कस्तो कानूनी कारबाही र सजायको अपेक्षा गर्न सकिन्छ?",
+    "answer_en": "Based on a Supreme Court judgment similar to 'Advocate Jyoti Paudel et al. v. Government of Nepal' (NLR 2066), throwing acid is considered a cruel and inhumane offense. The court has directed that provisions for this offense be incorporated into the Domestic Violence (Offence and Punishment) Act, 2066, with punishments varying according to the severity of the offense. Therefore, someone convicted of throwing acid would face penalties as prescribed under amendments to the Act, which could include imprisonment and fines, based on the extent of harm caused.",
+    "answer_ne": "'अधिवक्ता ज्योति पौडेल लगायत विरुद्ध नेपाल सरकार' (एनएलआर २०६६) जस्तै सर्वोच्च अदालतको फैसलाको आधारमा, एसिड फाल्नुलाई क्रूर र अमानवीय अपराध मानिन्छ। अदालतले यस अपराधको प्रावधानलाई घरेलु हिंसा (अपराध र सजाय) ऐन, २०६६ मा अपराधको गम्भीरता अनुसार फरक सजाय सहित समावेश गर्न निर्देशन दिएको छ। त्यसकारण, एसिड फालेको अभियोगमा दोषी ठहर भएका व्यक्तिले ऐनमा संशोधन अन्तर्गत तोकिएका दण्डहरू सामना गर्नेछन्, जसमा भएको क्षतिको हदको आधारमा कैद र जरिवाना समावेश हुन सक्छ।",
+    "context_en": "Supreme Court directives to include acid throwing as an offense under the Domestic Violence (Offence and Punishment) Act, 2066, as seen in cases similar to 'Advocate Jyoti Paudel et al. v. Government of Nepal' (NLR 2066), with punishments varying based on severity.",
+    "context_ne": "'अधिवक्ता ज्योति पौडेल लगायत विरुद्ध नेपाल सरकार' (एनएलआर २०६६) जस्तै मुद्दाहरूमा देखिए जस्तै, घरेलु हिंसा (अपराध र सजाय) ऐन, २०६६ अन्तर्गत एसिड फाल्नेलाई अपराधको रूपमा समावेश गर्न सर्वोच्च अदालतको निर्देशन, गम्भीरताको आधारमा फरक सजाय सहित।"
+  },
+  {
+    "id": 32,
+    "question_en": "If someone is convicted of sexual harassment in the workplace, what legal measures and punishments can be applied, according to Supreme Court directives?",
+    "question_ne": "यदि कसैलाई कार्यस्थलमा यौन उत्पीडनको अभियोगमा दोषी ठहर गरिन्छ भने, सर्वोच्च अदालतको निर्देशन अनुसार कस्ता कानूनी उपाय र सजायहरू लागू गर्न सकिन्छ?",
+    "answer_en": "Based on a Supreme Court judgment similar to 'Advocate Sharmila Parajuli et al. v. His Majesty's Government' (NLR 2061), necessary laws on sexual harassment at the workplace must be formulated. Victims can seek legal recourse under these laws. The punishment would depend on the specific laws enacted, but could include fines, imprisonment, or workplace sanctions, aimed at creating a safe environment.",
+    "answer_ne": "'अधिवक्ता शर्मिला पराजुली लगायत विरुद्ध हिज मेजेस्टीज सरकार' (एनएलआर २०६१) जस्तै सर्वोच्च अदालतको फैसलाको आधारमा, कार्यस्थलमा यौन उत्पीडन सम्बन्धी आवश्यक कानूनहरू बनाउनुपर्छ। पीडितहरूले यी कानूनहरू अन्तर्गत कानूनी उपायहरू खोज्न सक्छन्। सजाय विशिष्ट रूपमा लागू गरिएका कानूनहरूमा निर्भर हुनेछ, तर सुरक्षित वातावरण सिर्जना गर्ने उद्देश्यले जरिवाना, कैद वा कार्यस्थल प्रतिबन्धहरू समावेश हुन सक्छ।",
+    "context_en": "Supreme Court directives to formulate laws on sexual harassment in the workplace, as seen in cases similar to 'Advocate Sharmila Parajuli et al. v. His Majesty's Government' (NLR 2061), with punishments dependent on enacted legislation.",
+    "context_ne": "'अधिवक्ता शर्मिला पराजुली लगायत विरुद्ध हिज मेजेस्टीज सरकार' (एनएलआर २०६१) जस्तै मुद्दाहरूमा देखिए जस्तै कार्यस्थलमा यौन उत्पीडन सम्बन्धी कानूनहरू बनाउन सर्वोच्च अदालतको निर्देशन, लागू गरिएको कानूनमा निर्भर सजायहरू सहित।"
+  },
+  {
+    "id": 33,
+    "question_en": "If a woman who has experienced severe abuse, leading to Battered Women Syndrome (BWS), commits a crime, how would the court consider her mental state in the judgment?",
+    "question_ne": "यदि गम्भीर दुर्व्यवहारको अनुभव गरेकी महिलाले ब्याटर्ड वुमन सिन्ड्रोम (बीडब्ल्यूएस) निम्त्याउने अपराध गरेमा अदालतले फैसलामा उनको मानसिक अवस्थालाई कसरी विचार गर्छ?",
+    "answer_en": "Based on a judgment similar to 'Government of Nepal v. Radhika Shrestha' (NLR 2071), the court would consider the woman's mental state, recognizing Battered Women Syndrome (BWS) as a relevant factor. The judgment would take into account the psychological impact of BWS, which could influence the assessment of culpability and potentially lessen the severity of the sentence. This approach aims to understand the circumstances that led to her actions.",
+    "answer_ne": "'नेपाल सरकार विरुद्ध राधिका श्रेष्ठ' (एनएलआर २०७१) जस्तै फैसलाको आधारमा, अदालतले महिलाको मानसिक अवस्थालाई विचार गर्नेछ, ब्याटर्ड वुमन सिन्ड्रोम (बीडब्ल्यूएस) लाई सान्दर्भिक कारकको रूपमा मान्यता दिँदै। फैसलाले बीडब्ल्यूएसको मनोवैज्ञानिक प्रभावलाई ध्यानमा राख्नेछ, जसले दोषीताको मूल्याङ्कनलाई प्रभाव पार्न सक्छ र सम्भावित रूपमा सजायको गम्भीरतालाई कम गर्न सक्छ। यो दृष्टिकोणले उनको कार्यहरू निम्त्याउने परिस्थितिहरू बुझ्ने लक्ष्य राख्दछ।",
+    "context_en": "Court's consideration of Battered Women Syndrome (BWS) in cases where a woman commits a crime after experiencing abuse, as seen in cases similar to 'Government of Nepal v. Radhika Shrestha' (NLR 2071), influencing culpability and sentencing.",
+    "context_ne": "'नेपाल सरकार विरुद्ध राधिका श्रेष्ठ' (एनएलआर २०७१) जस्तै मुद्दाहरूमा देखिए जस्तै दुर्व्यवहारको अनुभव गरेपछि महिलाले अपराध गरेको मुद्दाहरूमा ब्याटर्ड वुमन सिन्ड्रोम (बीडब्ल्यूएस) को अदालतको विचार, दोषीता र सजायलाई प्रभाव पार्दै।"
+  },
+  {
+    "id": 34,
+    "question_en": "If someone claims their property rights have been violated due to discriminatory laws, how would the Supreme Court respond, particularly regarding inheritance?",
+    "question_ne": "यदि कसैले भेदभावपूर्ण कानूनको कारण आफ्नो सम्पत्ति अधिकार उल्लङ्घन भएको दाबी गर्छ भने, सर्वोच्च अदालतले विशेष गरी उत्तराधिकारको सम्बन्धमा कसरी प्रतिक्रिया दिन्छ?",
+    "answer_en": "Based on a judgment similar to 'Meera Dhungana v. His Majesty's Government' (Order Date: 2052/04/15), the Supreme Court would likely issue a directive to amend or formulate laws that ensure consistency with constitutional rights to equality. If the discriminatory laws are found to be inconsistent with these rights, they would be deemed invalid. This ensures that inheritance and property rights are protected for all individuals, regardless of gender or other discriminatory factors.",
+    "answer_ne": "'मीरा ढुंगाना विरुद्ध हिज मेजेस्टीज सरकार' (आदेश मिति: २०५२/०४/१५) जस्तै फैसलाको आधारमा, सर्वोच्च अदालतले समानताको संवैधानिक अधिकारसँग स्थिरता सुनिश्चित गर्ने कानूनहरू संशोधन वा बनाउन निर्देशन जारी गर्ने सम्भावना छ। यदि भेदभावपूर्ण कानूनहरू यी अधिकारहरूसँग असंगत भएको पाइयो भने, तिनीहरूलाई अमान्य मानिनेछ। यसले लिङ्ग वा अन्य भेदभावपूर्ण कारकहरूको पर्वाह नगरी सबै व्यक्तिहरूको लागि उत्तराधिकार र सम्पत्ति अधिकारहरू सुरक्षित छन् भन्ने सुनिश्चित गर्दछ।",
+    "context_en": "Supreme Court's response to discriminatory property laws affecting inheritance, ensuring constitutional rights to equality, as seen in cases similar to 'Meera Dhungana v. His Majesty's Government' (Order Date: 2052/04/15).",
+    "context_ne": "'मीरा ढुंगाना विरुद्ध हिज मेजेस्टीज सरकार' (आदेश मिति: २०५२/०४/१५) जस्तै मुद्दाहरूमा देखिए जस्तै, उत्तराधिकारलाई असर गर्ने भेदभावपूर्ण सम्पत्ति कानूनहरूमा सर्वोच्च अदालतको प्रतिक्रिया, समानताको संवैधानिक अधिकार सुनिश्चित गर्दै।"
+  },
+  {
+    "id": 35,
+    "question_en": "In cases of homicide ('Kartabya Gyan'), what are the typical legal actions and outcomes for the involved parties, based on district court practices?",
+    "question_ne": "हत्या ('कर्तव्य ज्यान') को मुद्दामा, जिल्ला अदालतको अभ्यासको आधारमा संलग्न पक्षहरूका लागि सामान्य कानूनी कारबाही र परिणामहरू के हुन्?",
+    "answer_en": "Based on district court practices, as seen in cases like the one decided in Kalikot District Court (Case No. 078-00-079-00158), legal actions in homicide cases involve finding the accused guilty, which results in varying sentences including imprisonment. The specifics of the outcomes depend on the evidence presented and the court's assessment of the case. Typically, procedural directives are also given regarding appeals, judgment copies, and record-keeping.",
+    "answer_ne": "कालिकोट जिल्ला अदालत (मुद्दा नम्बर ०७८-००-०७९-००१५८) मा फैसला भएको मुद्दाहरूमा देखिए जस्तै, जिल्ला अदालतको अभ्यासको आधारमा, हत्या मुद्दाहरूमा कानूनी कारबाहीहरूमा अभियुक्तलाई दोषी ठहर गर्नु समावेश हुन्छ, जसले कैदसहित विभिन्न सजायहरू निम्त्याउँछ। परिणामहरूको विवरणहरू प्रस्तुत प्रमाणहरू र अदालतको मुद्दाको मूल्याङ्कनमा निर्भर गर्दछ। सामान्यतया, पुनरावेदन, फैसला प्रतिलिपिहरू, र अभिलेख राख्ने सम्बन्धमा प्रक्रियागत निर्देशनहरू पनि दिइन्छ।",
+    "context_en": "Typical legal actions and outcomes in homicide cases based on district court practices, including sentencing and procedural directives.",
+    "context_ne": "जिल्ला अदालतको अभ्यासको आधारमा हत्या मुद्दाहरूमा सामान्य कानूनी कारबाही र परिणामहरू, सजाय र प्रक्रियागत निर्देशनहरू सहित।"
+  },
+  {
+    "id": 36,
+    "question_en": "What are the standard procedures for appealing a district court decision, and what information is typically provided to the involved parties?",
+    "question_ne": "जिल्ला अदालतको निर्णयमा पुनरावेदन गर्ने मानक प्रक्रियाहरू के हुन्, र संलग्न पक्षहरूलाई सामान्यतया कस्तो जानकारी प्रदान गरिन्छ?",
+    "answer_en": "Standard procedures for appealing a district court decision, as seen in cases decided in Kalikot District Court, involve filing an appeal within 30 days at the relevant high court. The involved parties are typically provided with copies of the judgment and information on how to obtain further copies. Courts also often mandate the digitization of case files and the maintenance of detailed records.",
+    "answer_ne": "कालिकोट जिल्ला अदालतमा फैसला भएका मुद्दाहरूमा देखिए जस्तै, जिल्ला अदालतको निर्णयमा पुनरावेदन गर्ने मानक प्रक्रियाहरूमा सम्बन्धित उच्च अदालतमा ३० दिनभित्र पुनरावेदन दर्ता गर्नु समावेश छ। संलग्न पक्षहरूलाई सामान्यतया फैसलाको प्रतिलिपिहरू र थप प्रतिलिपिहरू कसरी प्राप्त गर्ने भन्ने बारे जानकारी प्रदान गरिन्छ। अदालतहरूले प्रायः मुद्दाको फाइलहरूको डिजिटलीकरण र विस्तृत अभिलेखहरू कायम राख्न आदेश दिन्छन्।",
+    "context_en": "Standard procedures for appealing district court decisions and information provided to parties, including appeal timelines and judgment copies.",
+    "context_ne": "जिल्ला अदालतको निर्णयहरू पुनरावेदन गर्ने मानक प्रक्रियाहरू र पक्षहरूलाई प्रदान गरिएको जानकारी, पुनरावेदन समयरेखा र फैसला प्रतिलिपिहरू सहित।"
+  },
+  {
+    "id": 37,
+    "question_en": "How do district courts handle property division disputes, particularly concerning the validity of compromise agreements?",
+    "question_ne": "जिल्ला अदालतहरूले सम्पत्ति विभाजन विवादहरू, विशेष गरी सम्झौता सम्झौताहरूको वैधताको सम्बन्धमा कसरी ह्यान्डल गर्छन्?",
+    "answer_en": "District courts, as evidenced in cases like the one decided in Kalikot District Court, typically uphold the validity of compromise agreements in property division disputes if they are made with fair consent and according to legal procedures. The courts aim to ensure that justly made compromises are honored and not easily annulled.",
+    "answer_ne": "कालिकोट जिल्ला अदालतमा फैसला भएको मुद्दाहरूमा प्रमाणित भए जस्तै, जिल्ला अदालतहरूले सामान्यतया सम्पत्ति विभाजन विवादहरूमा सम्झौता सम्झौताहरूको वैधतालाई कायम राख्छन् यदि तिनीहरू निष्पक्ष सहमति र कानूनी प्रक्रिया अनुसार गरिएका छन् भने। अदालतहरूले न्यायपूर्वक गरिएका सम्झौताहरूलाई सम्मान गरिएको र सजिलै रद्द नगरिएको सुनिश्चित गर्ने लक्ष्य राख्छन्।",
+    "context_en": "District court handling of property division disputes, focusing on the validity of compromise agreements made with consent.",
+    "context_ne": "सहमतिले गरिएका सम्झौता सम्झौताहरूको वैधतामा ध्यान केन्द्रित गर्दै सम्पत्ति विभाजन विवादहरूको जिल्ला अदालत ह्यान्डलिंग।"
+  },
+  {
+    "id": 38,
+    "question_en": "What are the common directives given by district courts to ensure transparency and accessibility of their judgments?",
+    "question_ne": "जिल्ला अदालतहरूले आफ्नो फैसलाको पारदर्शिता र पहुँच सुनिश्चित गर्न कस्ता सामान्य निर्देशनहरू दिन्छन्?",
+    "answer_en": "Common directives given by district courts to ensure transparency and accessibility of their judgments include providing judgment copies to involved parties, allowing stakeholders to obtain copies upon payment of fees, and ordering the digitization and uploading of case files. These measures aim to enhance public access to legal information and ensure accountability.",
+    "answer_ne": "जिल्ला अदालतहरूले आफ्नो फैसलाको पारदर्शिता र पहुँच सुनिश्चित गर्न दिइएका सामान्य निर्देशनहरूमा संलग्न पक्षहरूलाई फैसलाको प्रतिलिपिहरू उपलब्ध गराउने, सरोकारवालाहरूलाई शुल्क तिरेर प्रतिलिपिहरू प्राप्त गर्न अनुमति दिने, र मुद्दाको फाइलहरूको डिजिटलीकरण र अपलोड गर्ने आदेश दिने समावेश छ। यी उपायहरूले कानूनी जानकारीमा सार्वजनिक पहुँच बढाउने र जवाफदेहिता सुनिश्चित गर्ने लक्ष्य राख्छन्।",
+    "context_en": "Common district court directives for transparency and accessibility of judgments, including providing copies and digitizing case files.",
+    "context_ne": "प्रतिलिपिहरू उपलब्ध गराउने र मुद्दाको फाइलहरू डिजिटलीकरण गर्ने लगायत फैसलाहरूको पारदर्शिता र पहुँचको लागि सामान्य जिल्ला अदालत निर्देशनहरू।"
+  },
+  {
+    "id": 39,
+    "question_en": "In cases involving sexual violence, what are the typical legal actions and considerations taken by the courts, based on past judgments?",
+    "question_ne": "यौन हिंसा समावेश भएका मुद्दाहरूमा, विगतका फैसलाहरूको आधारमा अदालतहरूले लिने सामान्य कानूनी कारबाही र विचारहरू के हुन्?",
+    "answer_en": "Based on past judgments, courts typically take sexual violence cases very seriously. Legal actions include thorough investigations, careful examination of evidence, and consideration of the victim's testimony. Courts also often address issues of consent, especially in cases with power imbalances. The judgments aim to protect victims and ensure justice is served, which may include imprisonment for the accused.",
+    "answer_ne": "विगतका फैसलाहरूको आधारमा, अदालतहरूले सामान्यतया यौन हिंसाका मुद्दाहरूलाई धेरै गम्भीरतापूर्वक लिन्छन्। कानूनी कारबाहीहरूमा गहन अनुसन्धान, प्रमाणहरूको सावधानीपूर्वक जाँच, र पीडितको गवाहीको विचार समावेश छ। अदालतहरूले प्रायः सहमतिको मुद्दाहरूलाई सम्बोधन गर्छन्, विशेष गरी शक्ति असन्तुलन भएका मुद्दाहरूमा। फैसलाहरूले पीडितहरूको रक्षा गर्ने र न्याय प्रदान गरिएको सुनिश्चित गर्ने लक्ष्य राख्छन्, जसमा अभियुक्तको लागि कैद समावेश हुन सक्छ।",
+    "context_en": "Typical legal actions and considerations in sexual violence cases, including investigations, evidence examination, and victim protection.",
+    "context_ne": "अनुसन्धान, प्रमाण जाँच, र पीडित सुरक्षा सहित यौन हिंसाका मुद्दाहरूमा सामान्य कानूनी कारबाही र विचारहरू।"
+  },
+  {
+    "id": 40,
+    "question_en": "In a case of culpable homicide involving multiple accused, what factors do district courts typically consider when determining the level of involvement and sentencing?",
+    "question_ne": "बहु अभियुक्तहरू संलग्न भएको आपराधिक मानव हत्याको मुद्दामा, जिल्ला अदालतहरूले सामान्यतया संलग्नताको स्तर र सजाय निर्धारण गर्दा कुन कारकहरूलाई विचार गर्छन्?",
+    "answer_en": "District courts, as illustrated in the Salyan District Court case, consider several factors including the statements of the accused and witnesses, forensic reports, and any prior statements made during investigations. The court assesses the direct involvement of each accused in the altercation and the extent to which their actions contributed to the victim's death. Sentencing varies based on this assessment, reflecting the degree of culpability.",
+    "answer_ne": "साल्यान जिल्ला अदालतको मुद्दामा चित्रण गरिए अनुसार, जिल्ला अदालतहरूले अभियुक्त र साक्षीहरूको बयान, फोरेन्सिक रिपोर्टहरू, र अनुसन्धानको क्रममा गरिएका कुनै पनि पूर्व बयानहरू सहित धेरै कारकहरूलाई विचार गर्छन्। अदालतले प्रत्येक अभियुक्तको झगडामा प्रत्यक्ष संलग्नता र उनीहरूको कार्यले पीडितको मृत्युमा कति योगदान पुर्‍यायो भनेर मूल्याङ्कन गर्दछ। सजाय यस मूल्याङ्कनको आधारमा फरक हुन्छ, जसले दोषीको डिग्रीलाई प्रतिबिम्बित गर्दछ।",
+    "context_en": "District court considerations in culpable homicide cases, including accused and witness statements, forensic reports, and individual culpability assessment.",
+    "context_ne": "अभियुक्त र साक्षीहरूको बयान, फोरेन्सिक रिपोर्ट, र व्यक्तिगत दोषीता मूल्याङ्कन सहित आपराधिक मानव हत्या मुद्दाहरूमा जिल्ला अदालत विचारहरू।"
+  },
+  {
+    "id": 41,
+    "question_en": "When accused individuals recant their initial statements made during investigations, how do district courts typically weigh this change in testimony during the trial?",
+    "question_ne": "जब अभियुक्त व्यक्तिहरूले अनुसन्धानको क्रममा गरेका प्रारम्भिक बयानहरू फिर्ता लिन्छन्, जिल्ला अदालतहरूले सामान्यतया परीक्षणको क्रममा गवाहीमा भएको यो परिवर्तनलाई कसरी तौल गर्छन्?",
+    "answer_en": "District courts, as observed in the Salyan District Court case, carefully evaluate recanted statements. The court compares the initial statements with the later testimony, considering the reasons for the change and the credibility of each version. The court may give more weight to the initial statements if they are supported by other evidence or if the recantation appears to be an attempt to avoid responsibility.",
+    "answer_ne": "साल्यान जिल्ला अदालतको मुद्दामा देखिए जस्तै, जिल्ला अदालतहरूले फिर्ता लिइएका बयानहरूलाई सावधानीपूर्वक मूल्याङ्कन गर्छन्। अदालतले परिवर्तनको कारण र प्रत्येक संस्करणको विश्वसनीयतालाई विचार गर्दै प्रारम्भिक बयानहरूलाई पछिको गवाहीसँग तुलना गर्छ। यदि प्रारम्भिक बयानहरू अन्य प्रमाणहरूद्वारा समर्थित छन् वा यदि फिर्ता लिनु जिम्मेवारीबाट बच्ने प्रयास हो भने अदालतले प्रारम्भिक बयानहरूलाई बढी महत्त्व दिन सक्छ।",
+    "context_en": "District court evaluation of recanted statements, considering the credibility and reasons for the change in testimony.",
+    "context_ne": "गवाहीमा भएको परिवर्तनको विश्वसनीयता र कारणहरूलाई विचार गर्दै फिर्ता लिइएका बयानहरूको जिल्ला अदालत मूल्याङ्कन।"
+  },
+  {
+    "id": 42,
+    "question_en": "In cases where a physical altercation leads to death, how do district courts determine the causal link between the accused's actions and the victim's fatal injuries?",
+    "question_ne": "जहाँ शारीरिक झगडाले मृत्यु निम्त्याउँछ, जिल्ला अदालतहरूले अभियुक्तको कार्य र पीडितको घातक चोटहरू बीचको कारण सम्बन्ध कसरी निर्धारण गर्छन्?",
+    "answer_en": "District courts, as seen in the Salyan District Court case, rely on forensic reports and witness testimonies to establish the causal link. The court examines the nature and severity of the injuries, the sequence of events during the altercation, and the medical evidence to determine if the accused's actions directly caused the fatal injuries. The court also considers if any intervening factors contributed to the death.",
+    "answer_ne": "साल्यान जिल्ला अदालतको मुद्दामा देखिए जस्तै, जिल्ला अदालतहरूले कारण सम्बन्ध स्थापित गर्न फोरेन्सिक रिपोर्टहरू र साक्षीहरूको गवाहीमा भर पर्छन्। अदालतले चोटहरूको प्रकृति र गम्भीरता, झगडाको क्रममा घटनाहरूको अनुक्रम, र चिकित्सा प्रमाणहरू जाँच गर्दछ कि अभियुक्तको कार्यहरूले घातक चोटहरू प्रत्यक्ष रूपमा निम्त्यायो कि भनेर निर्धारण गर्न। अदालतले कुनै हस्तक्षेप गर्ने कारकहरूले मृत्युमा योगदान पुर्‍यायो कि भनेर पनि विचार गर्दछ।",
+    "context_en": "District court determination of causal link in fatal altercation cases, using forensic reports and witness testimonies.",
+    "context_ne": "घातक झगडा मुद्दाहरूमा कारण सम्बन्धको जिल्ला अदालत निर्धारण, फोरेन्सिक रिपोर्टहरू र साक्षीहरूको गवाही प्रयोग गरेर।"
+  },
+  {
+    "id": 43,
+    "question_en": "What range of prison sentences can individuals expect in district court rulings for culpable homicide, depending on their level of involvement?",
+    "question_ne": "आफ्नो संलग्नताको स्तरको आधारमा आपराधिक मानव हत्याको लागि जिल्ला अदालतको फैसलामा व्यक्तिहरूले कस्तो जेल सजायको दायराको अपेक्षा गर्न सक्छन्?",
+    "answer_en": "In district court rulings for culpable homicide, as observed in the Salyan District Court case, the range of prison sentences varies significantly based on the level of involvement. Individuals may receive sentences ranging from 1 to 5 years, or potentially more in severe cases. The court considers the specific actions of each accused and their contribution to the victim's death when determining the appropriate sentence.",
+    "answer_ne": "साल्यान जिल्ला अदालतको मुद्दामा देखिए जस्तै आपराधिक मानव हत्याको लागि जिल्ला अदालतको फैसलामा जेल सजायको दायरा संलग्नताको स्तरको आधारमा उल्लेखनीय रूपमा फरक हुन्छ। व्यक्तिहरूले १ देखि ५ वर्षसम्मको सजाय प्राप्त गर्न सक्छन्, वा गम्भीर मुद्दाहरूमा सम्भावित रूपमा बढी। अदालतले प्रत्येक अभियुक्तको विशिष्ट कार्यहरू र पीडितको मृत्युमा उनीहरूको योगदानलाई उपयुक्त सजाय निर्धारण गर्दा विचार गर्दछ।",
+    "context_en": "Range of prison sentences for culpable homicide in district court rulings, based on individual involvement and contribution to the victim's death.",
+    "context_ne": "व्यक्तिगत संलग्नता र पीडितको मृत्युमा योगदानको आधारमा जिल्ला अदालतको फैसलामा आपराधिक मानव हत्याको लागि जेल सजायको दायरा।"
+  },
+  {
+    "id": 44,
+    "question_en": "When a dispute escalates into a fatal altercation at a public establishment, what legal responsibilities do the involved individuals have, according to district court rulings?",
+    "question_ne": "जब सार्वजनिक प्रतिष्ठानमा विवाद घातक झगडामा परिणत हुन्छ, जिल्ला अदालतको फैसला अनुसार संलग्न व्यक्तिहरूको कानूनी जिम्मेवारीहरू के हुन्?",
+    "answer_en": "According to district court rulings, as demonstrated in the Salyan District Court case, individuals involved in a fatal altercation at a public establishment have legal responsibilities to refrain from actions that could cause harm. If their actions contribute to the victim's death, they can be held criminally liable. The court emphasizes that disputes must be resolved peacefully and that any escalation leading to violence can result in severe legal consequences.",
+    "answer_ne": "साल्यान जिल्ला अदालतको मुद्दामा प्रदर्शन गरिए अनुसार जिल्ला अदालतको फैसला अनुसार सार्वजनिक प्रतिष्ठानमा घातक झगडामा संलग्न व्यक्तिहरूको हानि पुर्‍याउन सक्ने कार्यहरूबाट टाढा रहन कानूनी जिम्मेवारी हुन्छ। यदि उनीहरूको कार्यले पीडितको मृत्युमा योगदान पुर्‍याउँछ भने, उनीहरूलाई आपराधिक रूपमा उत्तरदायी ठहराउन सकिन्छ। अदालतले विवादहरू शान्तिपूर्ण रूपमा समाधान गर्नुपर्ने र हिंसा निम्त्याउने कुनै पनि वृद्धिले गम्भीर कानूनी परिणामहरू निम्त्याउन सक्ने कुरामा जोड दिन्छ।",
+    "context_en": "Legal responsibilities of individuals involved in fatal altercations at public establishments, as determined by district court rulings.",
+    "context_ne": "जिल्ला अदालतको फैसला द्वारा निर्धारित सार्वजनिक प्रतिष्ठानहरूमा घातक झगडाहरूमा संलग्न व्यक्तिहरूको कानूनी जिम्मेवारीहरू।"
+  },
+  {
+    "id": 45,
+    "question_en": "In property division disputes, how do district courts typically handle agreements made between parties, especially when one party later claims the agreement was unfair?",
+    "question_ne": "सम्पत्ति विभाजन विवादहरूमा, जिल्ला अदालतहरूले पक्षहरू बीच गरिएका सम्झौताहरूलाई कसरी ह्यान्डल गर्छन्, विशेष गरी जब एक पक्षले पछि सम्झौता अनुचित थियो भनी दाबी गर्छ?",
+    "answer_en": "District courts, as evidenced in cases like the one decided in Kathmandu District Court (2077/11/18), generally uphold compromise agreements if they are made with fair consent and according to legal procedures. The courts are reluctant to annul such agreements unless there is clear evidence of fraud or coercion, ensuring that agreements made in good faith are honored.",
+    "answer_ne": "काठमाडौं जिल्ला अदालत (२०७७/११/१८) मा फैसला भएको मुद्दाहरूमा प्रमाणित भए जस्तै, जिल्ला अदालतहरूले सामान्यतया सम्झौता सम्झौताहरूलाई कायम राख्छन् यदि तिनीहरू निष्पक्ष सहमति र कानूनी प्रक्रिया अनुसार गरिएका छन् भने। अदालतहरू त्यस्ता सम्झौताहरू रद्द गर्न अनिच्छुक हुन्छन् जबसम्म त्यहाँ जालसाजी वा जबरजस्तीको स्पष्ट प्रमाण हुँदैन, असल विश्वासमा गरिएका सम्झौताहरूलाई सम्मान गरिएको सुनिश्चित गर्दै।",
+    "context_en": "District court handling of property division agreements, emphasizing fair consent and legal procedures.",
+    "context_ne": "सम्पत्ति विभाजन सम्झौताहरूको जिल्ला अदालत ह्यान्डलिंग, निष्पक्ष सहमति र कानूनी प्रक्रियाहरूलाई जोड दिँदै।"
+  },
+  {
+    "id": 46,
+    "question_en": "What are the common procedural steps district courts take after delivering a judgment, particularly regarding appeals and providing copies of the decision?",
+    "question_ne": "जिल्ला अदालतहरूले फैसला सुनाएपछि लिने सामान्य प्रक्रियागत कदमहरू के हुन्, विशेष गरी पुनरावेदन र निर्णयको प्रतिलिपिहरू प्रदान गर्ने सम्बन्धमा?",
+    "answer_en": "District courts typically inform the parties about the appeal process, specifying the timeframe (usually 30 or 35 days) and the appropriate high court for filing. They also ensure that copies of the judgment are provided to the involved parties and relevant government offices. Additionally, courts often mandate the digitization of case files and the maintenance of detailed records.",
+    "answer_ne": "जिल्ला अदालतहरूले सामान्यतया पक्षहरूलाई पुनरावेदन प्रक्रियाको बारेमा जानकारी दिन्छन्, समयसीमा (सामान्यतया ३० वा ३५ दिन) र दर्ताको लागि उपयुक्त उच्च अदालत निर्दिष्ट गर्दछ। उनीहरूले यो पनि सुनिश्चित गर्छन् कि फैसलाको प्रतिलिपिहरू संलग्न पक्षहरू र सम्बन्धित सरकारी कार्यालयहरूलाई प्रदान गरिन्छ। थप रूपमा, अदालतहरूले प्रायः मुद्दाको फाइलहरूको डिजिटलीकरण र विस्तृत अभिलेखहरू कायम राख्न आदेश दिन्छन्।",
+    "context_en": "Common procedural steps taken by district courts post-judgment, including appeal information and provision of judgment copies.",
+    "context_ne": "फैसला पछिको जिल्ला अदालतहरूले लिने सामान्य प्रक्रियागत कदमहरू, पुनरावेदन जानकारी र फैसला प्रतिलिपिहरूको प्रावधान सहित।"
+  },
+  {
+    "id": 47,
+    "question_en": "How do district courts address cases involving domestic disputes, especially when there are claims of unfair compromises or agreements made under duress?",
+    "question_ne": "जिल्ला अदालतहरूले घरेलु विवादहरू समावेश भएका मुद्दाहरूलाई कसरी सम्बोधन गर्छन्, विशेष गरी जब जबरजस्ती अन्तर्गत गरिएका अनुचित सम्झौता वा सम्झौताहरूको दाबीहरू हुन्छन्?",
+    "answer_en": "District courts carefully examine domestic dispute cases, particularly when claims of unfair compromises or duress are made. They assess the validity of agreements by considering the circumstances under which they were made, the fairness of the terms, and the presence of any coercion or undue influence. The courts aim to protect vulnerable parties and ensure that agreements are genuinely consensual.",
+    "answer_ne": "जिल्ला अदालतहरूले घरेलु विवादका मुद्दाहरूलाई सावधानीपूर्वक जाँच गर्छन्, विशेष गरी जब अनुचित सम्झौता वा जबरजस्तीको दाबीहरू गरिन्छ। उनीहरूले बनाइएका परिस्थितिहरू, सर्तहरूको निष्पक्षता, र कुनै जबरजस्ती वा अनुचित प्रभावको उपस्थितिलाई विचार गरेर सम्झौताहरूको वैधताको मूल्याङ्कन गर्छन्। अदालतहरूले कमजोर पक्षहरूको रक्षा गर्ने र सम्झौताहरू वास्तविक रूपमा सहमतिमा छन् भन्ने सुनिश्चित गर्ने लक्ष्य राख्छन्।",
+    "context_en": "District court approach to domestic dispute cases, focusing on the validity of agreements and protection of vulnerable parties.",
+    "context_ne": "घरेलु विवादका मुद्दाहरूमा जिल्ला अदालतको दृष्टिकोण, सम्झौताहरूको वैधता र कमजोर पक्षहरूको सुरक्षामा केन्द्रित।"
+  },
+  {
+    "id": 48,
+    "question_en": "What legal procedures are followed by district courts when handling cases related to 'Kartabya Gyan' (homicide), particularly regarding the evidence and statements provided by the accused?",
+    "question_ne": "'कर्तव्य ज्यान' (हत्या) सम्बन्धी मुद्दाहरू ह्यान्डल गर्दा जिल्ला अदालतहरूले कस्ता कानूनी प्रक्रियाहरू पालना गर्छन्, विशेष गरी अभियुक्तद्वारा प्रदान गरिएका प्रमाण र बयानहरूको सम्बन्धमा?",
+    "answer_en": "District courts in 'Kartabya Gyan' (homicide) cases thoroughly examine all evidence, including forensic reports, witness testimonies, and statements provided by the accused. They assess the credibility and consistency of these statements, especially when there are discrepancies or recantations. The court aims to establish a clear understanding of the events leading to the homicide and to determine the level of involvement and culpability of each accused.",
+    "answer_ne": "'कर्तव्य ज्यान' (हत्या) मुद्दाहरूमा जिल्ला अदालतहरूले फोरेन्सिक रिपोर्टहरू, साक्षीहरूको गवाही, र अभियुक्तद्वारा प्रदान गरिएका बयानहरू सहित सबै प्रमाणहरूको राम्ररी जाँच गर्छन्। उनीहरूले यी बयानहरूको विश्वसनीयता र स्थिरताको मूल्याङ्कन गर्छन्, विशेष गरी जब त्यहाँ भिन्नता वा फिर्ता हुन्छन्। अदालतले हत्या निम्त्याउने घटनाहरूको स्पष्ट बुझाइ स्थापित गर्ने र प्रत्येक अभियुक्तको संलग्नता र दोषीताको स्तर निर्धारण गर्ने लक्ष्य राख्छ।",
+    "context_en": "Legal procedures in 'Kartabya Gyan' (homicide) cases, focusing on evidence examination and assessment of accused statements.",
+    "context_ne": "'कर्तव्य ज्यान' (हत्या) मुद्दाहरूमा कानूनी प्रक्रियाहरू, प्रमाण जाँच र अभियुक्त बयानहरूको मूल्याङ्कनमा केन्द्रित।"
+  },
+  {
+    "id": 49,
+    "question_en": "How do district courts ensure that judgments are accessible and transparent to the public and involved parties, particularly concerning the digitization and provision of copies?",
+    "question_ne": "जिल्ला अदालतहरूले कसरी सुनिश्चित गर्छन् कि फैसलाहरू जनता र संलग्न पक्षहरूलाई पहुँचयोग्य र पारदर्शी छन्, विशेष गरी डिजिटलीकरण र प्रतिलिपिहरूको प्रावधानको सम्बन्धमा?",
+    "answer_en": "District courts ensure accessibility and transparency by ordering the provision of judgment copies to involved parties and relevant government offices. They also facilitate access for the public by allowing stakeholders to obtain copies upon payment of fees. Additionally, courts often mandate the digitization of case files and the uploading of judgments to electronic platforms, making them readily available.",
+    "answer_ne": "जिल्ला अदालतहरूले संलग्न पक्षहरू र सम्बन्धित सरकारी कार्यालयहरूलाई फैसलाको प्रतिलिपिहरू उपलब्ध गराउन आदेश दिएर पहुँच र पारदर्शिता सुनिश्चित गर्छन्। उनीहरूले सरोकारवालाहरूलाई शुल्क तिरेर प्रतिलिपिहरू प्राप्त गर्न अनुमति दिएर जनताको पहुँचलाई पनि सहज बनाउँछन्। थप रूपमा, अदालतहरूले प्रायः मुद्दाको फाइलहरूको डिजिटलीकरण र इलेक्ट्रोनिक प्लेटफर्महरूमा फैसलाहरू अपलोड गर्न आदेश दिन्छन्, तिनीहरूलाई सजिलै उपलब्ध गराउँछन्।",
+    "context_en": "District court measures for ensuring judgment accessibility and transparency, including digitization and provision of copies.",
+    "context_ne": "प्रतिलिपिहरूको डिजिटलीकरण र प्रावधान सहित फैसला पहुँच र पारदर्शिता सुनिश्चित गर्न जिल्ला अदालत उपायहरू।"
+  },
+  {
+    "id": 50,
+    "question_en": "What legal provisions govern the appeal process against a district court verdict in Nepal, and how are the parties notified of the procedures?",
+    "question_ne": "नेपालमा जिल्ला अदालतको फैसलाविरुद्ध पुनरावेदन प्रक्रियालाई कानूनी व्यवस्थाहरूले कसरी नियमन गर्छन्, र पक्षहरूलाई यस प्रक्रियाको जानकारी कसरी दिइन्छ?",
+    "answer_en": "In Nepal, appeals against district court verdicts are governed by the National Civil Procedure Code 2017. Parties must file an appeal at the respective High Court within 35 days of the judgment. The court provides certified copies of the verdict to all parties and issues a public notice for transparency. Recent reforms mandate digital archiving of case documents and SMS-based updates to ensure timely communication with involved parties.",
+    "answer_ne": "नेपालमा जिल्ला अदालतको फैसलाविरुद्ध पुनरावेदन प्रक्रिया राष्ट्रिय दीवानी प्रक्रिया संहिता २०१७ ले नियमन गर्छ। पक्षहरूले फैसला पछि ३५ दिनभित्र सम्बन्धित उच्च अदालतमा पुनरावेदन दर्ता गर्नुपर्छ। अदालतले सबै पक्षहरूलाई फैसलाको प्रमाणित प्रतिलिपि प्रदान गर्छ र पारदर्शिताको लागि सार्वजनिक सूचना जारी गर्छ। हालैको सुधारले मुद्दाको कागजातहरू डिजिटल रूपमा संग्रह गर्ने र समयमा पक्षहरूलाई जानकारी दिन एसएमएस-आधारित अपडेट अनिवार्य गरेको छ।",
+    "context_en": "Legal framework for appealing district court verdicts in Nepal, including timelines, documentation, and communication methods.",
+    "context_ne": "नेपालमा जिल्ला अदालतको फैसलाविरुद्ध पुनरावेदन गर्ने कानूनी ढाँचा, समयसीमा, कागजात र संचार विधिहरू सहित।"
+  },
+  {
+    "id": 51,
+    "question_en": "Under which legal provisions can parties request an extension for appeal submission in Nepali district courts?",
+    "question_ne": "नेपाली जिल्ला अदालतहरूमा पुनरावेदन दायर गर्ने अवधि विस्तार कुन कानूनी व्यवस्थाअनुसार माग गर्न सकिन्छ?",
+    "answer_en": "Extensions under Section 12(3) of the National Civil Procedure Code 2017 and Rule 24 of the Judicial Administration Regulation 2020 allow parties to request deadline extensions. Valid grounds include natural disasters, medical emergencies, or administrative errors. Documentation such as medical certificates or disaster reports must accompany the request.",
+    "answer_ne": "राष्ट्रिय दीवानी प्रक्रिया संहिता २०१७ को धारा १२(३) र न्यायिक प्रशासन नियमावली २०२० को नियम २४ अनुसार प्राकृतिक प्रकोप, चिकित्साको आवश्यकता, वा प्रशासनिक त्रुटि जस्तै आधारमा अवधि विस्तार माग गर्न सकिन्छ। चिकित्सा प्रमाणपत्र वा प्रकोप प्रतिवेदन जस्ता कागजात संगै याचिका पेश गर्नुपर्छ।",
+    "context_en": "Legal basis for appeal deadline extensions under NPC 2017 and Judicial Administration Regulation 2020.",
+    "context_ne": "राष्ट्रिय दीवानी प्रक्रिया संहिता २०१७ र न्यायिक प्रशासन नियमावली २०२० अन्तर्गत पुनरावेदन अवधि विस्तारको कानूनी आधार।"
+  },
+  {
+    "id": 52,
+    "question_en": "What role does the Right to Information Act 2007 play in accessing court documents during appeals?",
+    "question_ne": "पुनरावेदन प्रक्रियामा अदालती कागजात पहुँच गर्न सूचनाको हक ऐन २००७ ले कस्तो भूमिका खेल्छ?",
+    "answer_en": "The Right to Information Act 2007 (Section 5) mandates courts to provide non-confidential case documents to appellants and the public within 15 days of request. Exceptions apply for ongoing investigations or national security matters. Digitized records under the Electronic Transactions Act 2008 must be made accessible through designated portals.",
+    "answer_ne": "सूचनाको हक ऐन २००७ (धारा ५) ले अदालतलाई गोपनीय नभएका कागजात अपीलकर्ता र जनतालाई अनुरोध पछि १५ दिनभित्र उपलब्ध गराउन बाध्य गर्छ। चलिरहेको अनुसन्धान वा राष्ट्रिय सुरक्षा सम्बन्धी मुद्दाहरूमा अपवाद लागू हुन्छ। इलेक्ट्रोनिक लेनदेन ऐन २००८ अन्तर्गत डिजिटल अभिलेख निर्धारित पोर्टलमार्फत पहुँचयोग्य बनाइन्छ।",
+    "context_en": "RTI Act 2007 provisions for court document access and digital compliance under ETA 2008.",
+    "context_ne": "सूचनाको हक ऐन २००७ को अदालती कागजात पहुँच व्यवस्था र इलेक्ट्रोनिक लेनदेन ऐन २००८ अन्तर्गत डिजिटल अनुपालन।"
+  },
+  {
+    "id": 53,
+    "question_en": "How does the Evidence Act 2031 (1974) regulate document submission in appellate courts?",
+    "question_ne": "प्रमाण ऐन २०३१ (१९७४) ले पुनरावेदन अदालतमा कागजात पेश गर्ने प्रक्रिया कसरी नियमन गर्छ?",
+    "answer_en": "Sections 45-47 of the Evidence Act 2031 require notarized copies of original documents, witness affidavits, and timestamped digital evidence (per Electronic Transactions Act 2008) for appeals. Tampered documents are rejected under Section 64, and courts may demand forensic verification under Rule 18 of the Judicial Procedures Manual 2019.",
+    "answer_ne": "प्रमाण ऐन २०३१ को धारा ४५-४७ ले मूल कागजातको नोटरीकृत प्रतिलिपि, साक्ष्यको शपथपत्र, र इलेक्ट्रोनिक लेनदेन ऐन २००८ अनुसार डिजिटल प्रमाण (समय-मुहर सहित) पेश गर्न आवश्यक गर्छ। धारा ६४ अन्तर्गत छेडछाड गरिएका कागजात अस्वीकार गरिन्छन् र न्यायिक प्रक्रिया निर्देशिका २०१९ को नियम १८ अनुसार अदालतले फोरेन्सिक जाँच माग गर्न सक्छ।",
+    "context_en": "Document authenticity rules under Evidence Act 2031 and digital evidence standards.",
+    "context_ne": "प्रमाण ऐन २०३१ अन्तर्गत कागजातको प्रामाणिकता नियम र डिजिटल प्रमाणको मापदण्ड।"
+  },
+
+  {
+    "id": 54,
+    "question_en": "What legal provisions apply to homicide cases involving provocation under Nepali law?",
+    "question_ne": "उत्तेजनाको आधारमा हत्या सम्बन्धी मुद्दाहरूमा नेपाली कानूनले कुन कानूनी व्यवस्था लागू गर्छ?",
+    "answer_en": "Under Section 299(1) of the National Penal Code 2017, homicide committed under grave and sudden provocation (culpable homicide not amounting to murder) is punishable with up to 10 years imprisonment. The defense must prove loss of self-control due to immediate provocation. Judicial precedents (e.g., Case No. 67-068-01290(ka), Ni.Na. 54) emphasize evaluating whether a 'reasonable person' would react similarly.",
+    "answer_ne": "राष्ट्रिय दण्ड संहिता २०१७ को धारा २९९(१) अनुसार गम्भीर र अचानक उत्तेजनाको अवस्थामा हत्या (हत्या नभएको दोषपूर्ण हत्या) ले १० वर्षसम्म कैद सजाय हुन्छ। बचावले तात्कालिक उत्तेजनाको कारण आत्मनियन्त्रण हराएको प्रमाणित गर्नुपर्छ। न्यायिक नजीर (जस्तै मुद्दा नं. ६७-०६८-०१२९०(क), नि.ना. ५४) ले 'वाजिब व्यक्ति' ले पनि त्यस्तो प्रतिक्रिया दिने थियो भन्ने मूल्याङ्कन गर्न जोड दिन्छ।",
+    "context_en": "Legal standards for provocation-based homicide under NPC 2017 and judicial precedents.",
+    "context_ne": "राष्ट्रिय दण्ड संहिता २०१७ अनुसार उत्तेजनामा आधारित हत्या र न्यायिक नजीरहरू।"
+  },
+  {
+    "id": 55,
+    "question_en": "How does the court handle digital evidence submission in criminal appeals?",
+    "question_ne": "अपराधिक पुनरावेदनमा अदालतले डिजिटल प्रमाण पेश गर्ने प्रक्रिया कसरी व्यवस्थित गर्छ?",
+    "answer_en": "Per Rule 18 of the Judicial Procedures Manual 2019 and Section 45 of the Evidence Act 2031 (1974), digital evidence must include timestamped verification and forensic authentication. Courts mandate submission through the Integrated Judicial Information System (IJIS) alongside physical copies to ensure integrity. Example from Case No. 67-068-01290(ka), Ni.Na. 54 can be used to see how evidence is handled.",
+    "answer_ne": "न्यायिक प्रक्रिया निर्देशिका २०१९ को नियम १८ र प्रमाण ऐन २०३१ (१९७४) को धारा ४५ अनुसार डिजिटल प्रमाणमा समय-मुहर र फोरेन्सिक प्रमाणीकरण हुनुपर्छ। अदालतले एकीकृत न्यायिक सूचना प्रणाली (IJIS) मार्फत डिजिटल पेस्की र भौतिक प्रतिलिपि साथै पेश गर्न अनिवार्य गर्छ। मुद्दा नं. ६७-०६८-०१२९०(क), नि.ना. ५४ बाट प्रमाण कसरी ह्यान्डल गरिन्छ भनेर देख्न सकिन्छ।",
+    "context_en": "Digital evidence standards under Judicial Procedures Manual 2019 and Evidence Act 2031.",
+    "context_ne": "न्यायिक प्रक्रिया निर्देशिका २०१९ र प्रमाण ऐन २०३१ अन्तर्गत डिजिटल प्रमाणको मापदण्ड।"
+  },
+  {
+    "id": 56,
+    "question_en": "What are the penalties for tampering with court documents during appeals?",
+    "question_ne": "पुनरावेदन प्रक्रियामा अदालती कागजातमा छेडछाड गर्नेमा कस्तो सजाय हुन्छ?",
+    "answer_en": "Section 64 of the Evidence Act 2031 (1974) imposes 3–5 years imprisonment and fines for document tampering. Case No. 67-068-01290(ka), Ni.Na. 54 highlights strict enforcement, including case dismissal and contempt charges under Section 12(3) of the National Civil Procedure Code 2017.",
+    "answer_ne": "प्रमाण ऐन २०३१ (१९७४) को धारा ६४ ले कागजातमा छेडछाड गर्नेलाई ३–५ वर्ष कैद र जरिवाना लगाउँछ। मुद्दा नं. ६७-०६८-०१२९०(क), नि.ना. ५४ ले राष्ट्रिय दीवानी प्रक्रिया संहिता २०१७ को धारा १२(३) अन्तर्गत मुद्दा खारेज र अवमानना अभियोग सहित कडा अनुपालन जोड्दछ।",
+    "context_en": "Penalties for document tampering under Evidence Act 2031 and procedural consequences.",
+    "context_ne": "प्रमाण ऐन २०३१ अन्तर्गत कागजात छेडछाडको सजाय र प्रक्रियागत नतीजा।"
+  },
+  {
+    "id": 57,
+    "question_en": "How are witness affidavits authenticated in Nepali appellate courts?",
+    "question_ne": "नेपाली पुनरावेदन अदालतमा साक्ष्यको शपथपत्र कसरी प्रमाणित गरिन्छ?",
+    "answer_en": "Witness affidavits require notarization under Section 47 of the Evidence Act 2031 and cross-examination per Rule 24 of the Judicial Administration Regulation 2020. Courts may demand biometric verification for high-profile cases (e.g., Case No. 67-068-01290(ka), Ni.Na. 54).",
+    "answer_ne": "साक्ष्यको शपथपत्रले प्रमाण ऐन २०३१ को धारा ४७ अनुसार नोटरीकरण र न्यायिक प्रशासन नियमावली २०२० को नियम २४ अनुसार प्रश्नोत्तर आवश्यक गर्छ। प्रमुख मुद्दाहरूमा अदालतले बायोमेट्रिक प्रमाणीकरण माग गर्न सक्छ (जस्तै मुद्दा नं. ६७-०६८-०१२९०(क), नि.ना. ५४)।",
+    "context_en": "Witness affidavit authentication procedures under Nepali law.",
+    "context_ne": "नेपाली कानून अन्तर्गत साक्ष्य शपथपत्र प्रमाणीकरण प्रक्रिया।"
+  },
+  {
+    "id": 58,
+    "question_en": "What factors are generally considered by Nepali district courts when determining culpability and sentencing in homicide cases involving multiple defendants?",
+    "question_ne": "बहु प्रतिवादीहरू संलग्न भएको हत्या मुद्दाहरूमा दोषीता र सजाय निर्धारण गर्दा नेपाली जिल्ला अदालतहरूले सामान्यतया कुन कारकहरूलाई विचार गर्छन्?",
+    "answer_en": "In homicide cases, Nepali district courts typically consider the direct involvement of each defendant in the act, the nature and severity of their actions, and the impact of those actions on the victim. As seen in past cases like Case No. 67-068-01290(ka), Ni.Na. 54 from Parbat District Court, courts examine witness testimonies, forensic evidence, and statements from the accused. Sentencing is determined based on legal provisions like the Muluki Ain and the Court Administration Act, 2048, ensuring the punishment reflects the individual's role in the crime.",
+    "answer_ne": "हत्या मुद्दाहरूमा, नेपाली जिल्ला अदालतहरूले सामान्यतया प्रत्येक प्रतिवादीको कार्यमा प्रत्यक्ष संलग्नता, उनीहरूको कार्यको प्रकृति र गम्भीरता, र पीडितमा ती कार्यहरूको प्रभावलाई विचार गर्छन्। पर्वत जिल्ला अदालतबाट मुद्दा नम्बर ६७-०६८-०१२९०(क), नि.ना. ५४ जस्ता विगतका मुद्दाहरूमा देखिए जस्तै, अदालतहरूले साक्षीहरूको गवाही, फोरेन्सिक प्रमाण, र अभियुक्तहरूको बयान जाँच गर्छन्। सजाय मुलुकी ऐन र अदालत प्रशासन ऐन, २०४८ जस्ता कानूनी प्रावधानहरूमा आधारित भएर निर्धारण गरिन्छ, जसले सजायले अपराधमा व्यक्तिको भूमिकालाई प्रतिबिम्बित गर्दछ भन्ने सुनिश्चित गर्दछ।",
+    "context_en": "General factors considered by Nepali district courts in homicide cases involving multiple defendants, including individual involvement, evidence examination, and legal provisions.",
+    "context_ne": "बहु प्रतिवादीहरू संलग्न भएको हत्या मुद्दाहरूमा नेपाली जिल्ला अदालतहरूले विचार गर्ने सामान्य कारकहरू, व्यक्तिगत संलग्नता, प्रमाण जाँच, र कानूनी प्रावधानहरू सहित।"
+  },
+  {
+    "id": 59,
+    "question_en": "How do Nepali district courts handle discrepancies in witness testimonies and ensure the reliability of evidence in homicide cases?",
+    "question_ne": "नेपाली जिल्ला अदालतहरूले हत्या मुद्दाहरूमा साक्षी गवाहीहरूमा भिन्नताहरूलाई कसरी ह्यान्डल गर्छन् र प्रमाणहरूको विश्वसनीयता कसरी सुनिश्चित गर्छन्?",
+    "answer_en": "Nepali district courts handle discrepancies in witness testimonies by carefully comparing and analyzing the statements of each witness, considering factors like consistency, credibility, and potential biases. To ensure evidence reliability, courts rely on corroborating evidence such as forensic reports and physical evidence, applying legal provisions from the Evidence Act, 2031. They also assess the circumstances under which testimonies were given, as demonstrated in cases like Case No. 67-068-01290(ka), Ni.Na. 54 from Parbat District Court.",
+    "answer_ne": "नेपाली जिल्ला अदालतहरूले प्रत्येक साक्षीको बयानलाई सावधानीपूर्वक तुलना र विश्लेषण गरेर साक्षी गवाहीहरूमा भिन्नताहरू ह्यान्डल गर्छन्, स्थिरता, विश्वसनीयता, र सम्भावित पूर्वाग्रहहरू जस्ता कारकहरूलाई विचार गर्दै। प्रमाण विश्वसनीयता सुनिश्चित गर्न, अदालतहरूले फोरेन्सिक रिपोर्टहरू र भौतिक प्रमाणहरू जस्ता पुष्टि गर्ने प्रमाणहरूमा भर पर्छन्, प्रमाण ऐन, २०३१ बाट कानूनी प्रावधानहरू लागू गर्दै। उनीहरूले पर्वत जिल्ला अदालतबाट मुद्दा नम्बर ६७-०६८-०१२९०(क), नि.ना. ५४ जस्ता मुद्दाहरूमा प्रदर्शन गरिएझैं गवाहीहरू दिइएका परिस्थितिहरूको पनि मूल्याङ्कन गर्छन्।",
+    "context_en": "Handling of witness testimony discrepancies and ensuring evidence reliability in Nepali district courts, using Evidence Act, 2031 and corroborating evidence.",
+    "context_ne": "प्रमाण ऐन, २०३१ र पुष्टि गर्ने प्रमाणहरू प्रयोग गरेर नेपाली जिल्ला अदालतहरूमा साक्षी गवाही भिन्नताहरू ह्यान्डल गर्ने र प्रमाण विश्वसनीयता सुनिश्चित गर्ने।"
+  },
+  {
+    "id": 60,
+    "question_en": "What procedural steps do Nepali district courts typically take regarding appeals and the provision of judgment copies in homicide cases?",
+    "question_ne": "नेपाली जिल्ला अदालतहरूले सामान्यतया हत्या मुद्दाहरूमा पुनरावेदन र फैसला प्रतिलिपिहरूको प्रावधानको सम्बन्धमा कस्ता प्रक्रियागत कदमहरू चाल्छन्?",
+    "answer_en": "Nepali district courts follow standard procedural steps regarding appeals and judgment copies. They inform involved parties about the appeal process, specifying the timeframe for filing at the appropriate appellate court, usually within 30 days. Courts ensure that copies of the judgment are provided to relevant parties and government offices. They also order the digitization of case files and the maintenance of detailed records, as seen in cases like Case No. 67-068-01290(ka), Ni.Na. 54 from Parbat District Court, following the Court Administration Act, 2048.",
+    "answer_ne": "नेपाली जिल्ला अदालतहरूले पुनरावेदन र फैसला प्रतिलिपिहरूको सम्बन्धमा मानक प्रक्रियागत कदमहरू पछ्याउँछन्। उनीहरूले संलग्न पक्षहरूलाई पुनरावेदन प्रक्रियाको बारेमा जानकारी दिन्छन्, सामान्यतया ३० दिन भित्र उपयुक्त पुनरावेदन अदालतमा दर्ता गर्ने समयसीमा निर्दिष्ट गर्छन्। अदालतहरूले सम्बन्धित पक्षहरू र सरकारी कार्यालयहरूलाई फैसलाको प्रतिलिपिहरू उपलब्ध गराइएको सुनिश्चित गर्छन्। उनीहरूले अदालत प्रशासन ऐन, २०४८ लाई पछ्याउँदै पर्वत जिल्ला अदालतबाट मुद्दा नम्बर ६७-०६८-०१२९०(क), नि.ना. ५४ जस्ता मुद्दाहरूमा देखिएझैं मुद्दाको फाइलहरूको डिजिटलीकरण र विस्तृत अभिलेखहरू कायम राख्न पनि आदेश दिन्छन्।",
+    "context_en": "Procedural steps taken by Nepali district courts in homicide cases regarding appeals and judgment copies, in compliance with Court Administration Act, 2048.",
+    "context_ne": "अदालत प्रशासन ऐन, २०४८ को अनुपालनमा, पुनरावेदन र फैसला प्रतिलिपिहरूको सम्बन्धमा नेपाली जिल्ला अदालतहरूले हत्या मुद्दाहरूमा चालेका प्रक्रियागत कदमहरू।"
+  },
+  {
+    "id": 61,
+    "question_en": "How do Nepali district courts ensure transparency and accessibility of judgments to the public and involved parties in homicide cases?",
+    "question_ne": "नेपाली जिल्ला अदालतहरूले हत्या मुद्दाहरूमा जनता र संलग्न पक्षहरूलाई फैसलाको पारदर्शिता र पहुँच कसरी सुनिश्चित गर्छन्?",
+    "answer_en": "Nepali district courts ensure transparency and accessibility by providing copies of judgments to involved parties and relevant government offices. They allow stakeholders to obtain copies upon payment of fees. Courts also mandate the digitization of case files and the uploading of judgments to electronic platforms, making them readily available, as seen in cases like Case No. 67-068-01290(ka), Ni.Na. 54 from Parbat District Court.",
+    "answer_ne": "नेपाली जिल्ला अदालतहरूले संलग्न पक्षहरू र सम्बन्धित सरकारी कार्यालयहरूलाई फैसलाको प्रतिलिपिहरू उपलब्ध गराएर पारदर्शिता र पहुँच सुनिश्चित गर्छन्। उनीहरूले सरोकारवालाहरूलाई शुल्क तिरेर प्रतिलिपिहरू प्राप्त गर्न अनुमति दिन्छन्। अदालतहरूले मुद्दाको फाइलहरूको डिजिटलीकरण र इलेक्ट्रोनिक प्लेटफर्महरूमा फैसलाहरू अपलोड गर्न पनि आदेश दिन्छन्, तिनीहरूलाई सजिलै उपलब्ध गराउँछन्, पर्वत जिल्ला अदालतबाट मुद्दा नम्बर ६७-०६८-०१२९०(क), नि.ना. ५४ जस्ता मुद्दाहरूमा देखिएझैं।",
+    "context_en": "Measures taken by Nepali district courts to ensure judgment transparency and accessibility in homicide cases, including digitization and provision of copies.",
+    "context_ne": "डिजिटलीकरण र प्रतिलिपिहरूको प्रावधान सहित हत्या मुद्दाहरूमा फैसला पारदर्शिता र पहुँच सुनिश्चित गर्न नेपाली जिल्ला अदालतहरूले चालेका उपायहरू।"
+  },
+  {
+    "id": 62,
+    "question_en": "What are the penalties for intentional assault using weapons under Nepali criminal law?",
+    "question_ne": "नेपाली दण्ड ऐनअनुसार हतियार प्रयोग गरी जानीजानी आक्रमण गर्नेमा के सजाय व्यवस्था छ?",
+    "answer_en": "Under Section 15 of the National Penal Code 2017 , intentional assault with weapons carries imprisonment up to 10 years. Case No. 61-065-00001, Ni.Na. 41 demonstrates enhanced penalties when injuries are medically confirmed .",
+    "answer_ne": "राष्ट्रिय दण्ड संहिता २०१७ को धारा १५ अनुसार हतियार प्रयोग गरी जानीजानी आक्रमण  गर्दा १० वर्षसम्म कैद हुन्छ। मुद्दा नं. ६१-०६५-००००१, नि.ना. ४१ ले शारीरिक चोट चिकित्सकीय प्रमाणित भएमा सजाय बढाउने नजीर कायम गर्छ।",
+    "context_en": "Weapon-based assault penalties under NPC 2017 and judicial precedents",
+    "context_ne": "राष्ट्रिय दण्ड संहिता २०१7 अनुसार हतियार प्रयोग गरेर आक्रमण र न्यायिक नजीर"
+  },
+  {
+    "id": 63,
+    "question_en": "How does Nepali law handle judicial custody during criminal proceedings?",
+    "question_ne": "नेपाली कानूनले दण्ड प्रक्रियाको क्रममा न्यायिक हिरासतलाई कसरी व्यवस्थापन गर्छ?",
+    "answer_en": "As per Criminal Procedure Code Clause 26, courts may order judicial custody  for up to 25 days during investigations. Case No. 61-065-00001, Ni.Na. 41 shows custody extensions require documented evidence preservation needs.",
+    "answer_ne": "दण्ड प्रक्रिया संहिता खण्ड २६ अनुसार अनुसन्धान अवधिमा अदालतले २५ दिनसम्म न्यायिक हिरासत आदेश दिन सक्छ। मुद्दा नं. ६१-०६५-००००१, नि.ना. ४१ ले साक्ष्य संरक्षण आवश्यकताको लेखिएको प्रमाण नभएमा हिरासत बढाउन नमिल्ने देखाएको छ।",
+    "context_en": "Judicial custody provisions under Nepali criminal procedure",
+    "context_ne": "नेपाली दण्ड प्रक्रिया अनुसार न्यायिक हिरासतको व्यवस्था"
+  },
+  {
+    "id": 64,
+    "question_en": "What compensation standards apply to crime victims in Nepal?",
+    "question_ne": "नेपालमा अपराध पीडितलाई लागू हुने क्षतिपूर्ति मापदण्ड के हो?",
+    "answer_en": "Section 15A of NPC 2017 mandates compensation through fines  up to NPR 25,000. Case No. 61-065-00001, Ni.Na. 41 establishes that 60% of fines must directly benefit victims, as seen in judgement records .",
+    "answer_ne": "राष्ट्रिय दण्ड संहिता २०१७ को धारा १५ए ले पीडितलाई प्रत्यक्ष रूपमा २५,००० सम्म क्षतिपूर्ति दिन अनिवार्य गर्छ। मुद्दा नं. ६१-०६५-००००१, नि.ना. ४१ ले जरिवानाको ६०% पीडितलाई प्रत्यक्ष दिने नजीर कायम गरेको छ।",
+    "context_en": "Victim compensation mechanisms under Nepali criminal law",
+    "context_ne": "नेपाली दण्ड कानूनअन्तर्गत पीडित क्षतिपूर्ति प्रणाली"
+  }
+]
