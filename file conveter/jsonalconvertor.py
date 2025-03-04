@@ -19,8 +19,7 @@ def csv_to_jsonl(csv_file_path, jsonl_file_path):
                 return
 
             for row in reader:
-                json.dump(row, jsonlfile, ensure_ascii=False) #ensure_ascii=False to correctly encode non-ascii characters
-                jsonlfile.write('\n')
+                json.dump(row, jsonlfile, ensure_ascii=False) 
 
         print(f"Successfully converted '{csv_file_path}' to '{jsonl_file_path}'")
 
@@ -29,7 +28,7 @@ def csv_to_jsonl(csv_file_path, jsonl_file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage (replace with your file paths):
+
 csv_file = 'output2.csv'  # Changed to 'output2.csv'
 jsonl_file = 'output.jsonl' # Path to your JSONL file
 csv_to_jsonl(csv_file, jsonl_file)
